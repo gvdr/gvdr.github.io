@@ -2,6 +2,9 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gvdr.github.io" # the base hostname & protocol for your site
 
+gems:
+  - jemoji
+
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
@@ -13,8 +16,12 @@ theme:
   #I'm a biomathematician PhD student exploring the evolving web of life.
   # Header and footer text
   header_text: >
-     <p>Hello world! You landed on <a href="http://gvdr.github.io/about/">my</a> web page. </p>
-     
+     <p>Hello world!</p>
+     <p>As you may have noticed, this website is still work in progress. </p>
+     <p>You can already read some info about <a href="http://gvdr.github.io/about/">me</a>. </p>
+     <p>I will be posting here updates about my <a href="http://gvdr.github.io/science/">research</a>. </p>
+     <p>Now and then I am tempted to share my <a href="http://gvdr.github.io/blog/">thoughts</a> about science, politics, music, the universe and everything else. But I will mainly write about mathematics, evolution and ecology. Ant that's probably enough! </p>
+
   footer_text: >
    This goofy website has been created using <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> on a Linux machine.
   
@@ -54,6 +61,8 @@ theme:
   
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
+
+permalink: /:categories/:title
 
 # PAGINATION
 paginate: 5
