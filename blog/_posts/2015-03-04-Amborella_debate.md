@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: 'Quanto Amborella sono le piante?'
-published: FALSE
+published: TRUE
 date: 2015-03-04 10:26
 tags: [Amborella, Filogenetica, Piante, Evoluzione]
 ---
