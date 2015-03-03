@@ -1,21 +1,20 @@
 ---
 layout: post
 category: blog
-title: 'Quanto Amborella sono le piante?'
+title: 'Quanto *Amborella* sono le piante?'
 published: TRUE
 author: gvdr
 date: 2015-03-04 10:26
 tags: [Amborella, Filogenetica, Piante, Evoluzione]
 ---
 
-Darwin lo aveva definito un abominabile mistero: da dove arrivano le piante da fiore? A cosa assomiglia la loro mamma? Quanti sessi contava? Quanto e' vecchia? Abominabile, credo, perche' non son domande per una signora!
+Darwin lo aveva definito un abominabile mistero: da dove arrivano le piante da fiore? A cosa assomiglia la loro *mamma*? Quanti sessi contava? Quanto e' vecchia? Abominabile, credo, perche' non son domande per una signora!
 
 La questione, per cominciare, e' quella di individuare la radice dell'albero evolutivo delle Magnoliofite (o Angiosperme, per chi preferisce la nomenclatura di Lindl a quella di Cronquist, Takhttajan & Max Zimmermann).
 
-Alla fine dello scorso millenio, una serie di analisi basate su un pugno di geni (Parkinson, Adams e Palmer 1999; Qiu et al. 1999; Soltis, Soltis e Chase 1999) assegna ad Amborella trichopoda l'eredita' di un ramo evolutivo isolato da tutte le altre Angiosperme. Amborella e' dunque una specie basale: "the most recent common ancestor" (l'antenato comune piu' recente) di Amborella e una qualsiasi altra pianta da fiore sarebbe la mamma di tutte le Angiosperme. Poco dopo altri studi (Barkman et al. 2000; Graham and Olmstead 2000) mostrano che per individuare quella radice con precisione occorre tener conto che alcuni loci genetici sono evoluti molto piu' rapidamente di altri. La matematica diventa complessa, i modelli alternativi si moltiplicano.
+Alla fine dello scorso millenio, una serie di analisi basate su un pugno di geni (Parkinson, Adams e Palmer 1999; Qiu et al. 1999; Soltis, Soltis e Chase 1999) assegna ad *Amborella trichopoda* l'eredita' di un ramo evolutivo isolato da tutte le altre Angiosperme. *Amborella* e' dunque una specie basale: "the most recent common ancestor" (l'antenato comune piu' recente) di Amborella e una qualsiasi altra pianta da fiore sarebbe la mamma di tutte le Angiosperme. Poco dopo altri studi (Barkman et al. 2000; Graham and Olmstead 2000) mostrano che per individuare quella radice con precisione occorre tener conto che alcuni loci genetici sono evoluti molto piu' rapidamente di altri. La matematica diventa complessa, i modelli alternativi si moltiplicano.
 
-Protagonisti del dibattito, da piu' di dieci anni, sono Vadim Goremykin [2] da una parte e Douglas e Pamela Soltis [3] dall'altra. I "tedeschi"
-(Goremykin e compagni) e gli "yankee" (Soltis & Soltis e compagni) se le danno di santa ragione. Complice, mi raccontano voci di corridoio, l'inglese imperfetto di Goremykin. Il titolo orignale "Amborella Is Not a Basal Angiosperm" sarebbe stato meglio reso con "Amborella Is Not the Basal Angiosperm". Infatti, nelle analisi del gruppo di ricerca tedesco, un'altra manciata di piante contendono ad Amborella il primato.
+Protagonisti del dibattito, da piu' di dieci anni, sono Vadim Goremykin [2] da una parte e Douglas e Pamela Soltis [3] dall'altra. I "tedeschi" (Goremykin e compagni) e gli "yankee" (Soltis & Soltis e compagni) se le danno di santa ragione. Complice, mi raccontano voci di corridoio, l'inglese imperfetto di Goremykin. Il titolo orignale "Amborella Is Not a Basal Angiosperm" sarebbe stato meglio reso con "Amborella Is Not the Basal Angiosperm". Infatti, nelle analisi del gruppo di ricerca tedesco, un'altra manciata di piante contendono ad Amborella il primato.
 
 L'avvento della genomica non risolve la diatriba. Nel mentre la genetica delle piante e' entrata nella "big science". Attorno ad Amborella si costituisce un consorzio ben finanziato e ben piazzato. Goremykin si trasferisce in Italia, alla Fondazione Edmund Mach di San Michele all'Adige, e non demorde. Nel 2013 pubblica in Systematic Biology una rigorosa analisi filogenetica [4] che piazza una clade formata da Trithuria una Nifeacee e Amborella da una parte e tutte le piante fiorite dall'altra. Il consorzio di Soltis - Soltis et al. risponde [5] e la discussione non si placa [6], complice la povera storia famigliare di Amborella che conta pochissimi parenti ancora in vita.
 
