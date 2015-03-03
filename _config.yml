@@ -5,16 +5,16 @@ url: "http://gvdr.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: <code>gvdr</code>
+  title: gvdr
   avatar: avatar.png
   gravatar: # 8cc255a53f7205b9b99448bed9150da0 email md5 hash
   description: "The web nest of Giulio Valentino Dalla Riva" # used by search engines
   
+  #I'm a biomathematician PhD student exploring the evolving web of life.
   # Header and footer text
   header_text: >
-     <p>Hello world! You landed on <code>gvdr</code> web page. I'm a biomathematician PhD student exploring the evolving web of life.</p>
+     <p>Hello world! You landed on <a href="http://gvdr.github.io/about/">my</a> web page. </p>
      
-     <p>You'll find here my projects, my thoughts on science and non-science, my contacts and a fair amount of noise.</p>
   footer_text: >
    This goofy website has been created using <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> on a Linux machine.
   
