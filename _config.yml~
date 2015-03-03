@@ -1,0 +1,67 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gvdr.github.io" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: <code>gvdr</code>
+  avatar: avatar.png
+  gravatar: # 8cc255a53f7205b9b99448bed9150da0 email md5 hash
+  description: "The web nest of Giulio Valentino Dalla Riva" # used by search engines
+  
+  # Header and footer text
+  header_text: >
+     <p>Hello world! You landed on <code>gvdr</code> web page. I'm a biomathematician PhD student exploring the evolving web of life.</p>
+     
+     <p>You'll find here my projects, my thoughts on science and non-science, my contacts and a fair amount of noise.</p>
+  footer_text: >
+   This fragile website has been created using <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> on a Linux machine.
+  
+  # Icons
+  rss: true
+  email_address: gvd16@uclive.ac.nz # full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket: 
+  dribbble: 
+  facebook: 
+  flickr: 
+  github: "gvdr/"
+  google_plus: 
+  instagram: 
+  linkedin:  # full URL
+  pinterest: 
+  reddit: 
+  soundcloud: 
+  stack_exchange:  # full URL
+  steam: 
+  tumblr: 
+  twitter: "ipnosimmia"
+  wordpress: 
+  youtube: 
+  
+  # Scripts
+  google_analytics: # tracking id, e.g. "UA-000000-01"
+  disqus_shortname:
+  
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+  
+  # Colors, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
