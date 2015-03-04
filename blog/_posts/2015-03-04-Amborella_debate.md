@@ -8,9 +8,11 @@ date: 2015-03-04 10:26
 tags: [Amborella, Filogenetica, Piante, Evoluzione]
 ---
 
-Darwin lo aveva definito un abominabile mistero: da dove arrivano le piante da fiore? A cosa assomiglia la loro *mamma*? Quanti sessi contava? Quanto è vecchia? Abominabile, credo, perché non son domande per una signora!
+Darwin lo aveva definito un abominabile mistero: da dove arrivano le piante da fiore? A cosa assomiglia la loro *mamma*? Quanti sessi contava? Quanto è vecchia? Abominabile, credo, perché non son domande che si fanno ad una signora...
 
-La questione, per cominciare, è quella di individuare la radice dell'albero evolutivo delle Magnoliofite (o Angiosperme, per chi preferisce la nomenclatura di Lindl a quella di Cronquist, Takhttajan & Max Zimmermann).
+Per risolvere la questione è utile individuare la radice dell'albero evolutivo delle Magnoliofite (o Angiosperme, per chi preferisce la nomenclatura di Lindl a quella di Cronquist, Takhttajan & Max Zimmermann).
+
+<img src="/blog/images/Amborella.jpg" style="float: right"  width="50%" title="Amborella trichopodia - by Wertheim Conservatory, Florida International University, Miami, Florida, USA.">
 
 Alla fine dello scorso millenio, una serie di analisi basate su un pugno di geni (Parkinson, Adams e Palmer 1999; Qiu et al. 1999; Soltis, Soltis e Chase 1999) assegna ad *Amborella trichopoda* l'eredita' di un ramo evolutivo isolato da tutte le altre Angiosperme. *Amborella* è dunque una specie basale: "the most recent common ancestor" (l'antenato comune piu' recente) di *Amborella* e una qualsiasi altra pianta da fiore sarebbe la mamma di tutte le Angiosperme. Poco dopo altri studi (Barkman et al. 2000; Graham and Olmstead 2000) mostrano che per individuare quella radice con precisione occorre tener conto che alcuni loci genetici sono evoluti molto più rapidamente di altri. La matematica diventa complessa, i modelli alternativi si moltiplicano.
 
