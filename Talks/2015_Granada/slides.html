@@ -1,36 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
   <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <link rel="stylesheet" type="text/css" media="screen, projection, print"
-    href="http://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
-  <script src="http://www.w3.org/Talks/Tools/Slidy2/scripts/slidy.js"
-    charset="utf-8" type="text/javascript"></script>
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="reveal.js/css/reveal.min.css"/>
+    <style type="text/css">code{white-space: pre;}</style>
+    <link rel="stylesheet" href="reveal.js/css/theme/simple.css" id="theme">
+    <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+    <script>
+      if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+      }
+    </script>
+    <!--[if lt IE 9]>
+    <script src="reveal.js/lib/js/html5shiv.js"></script>
+    <![endif]-->
 </head>
 <body>
-<div id="stochastic-evolving-food-webs" class="slide section level1">
+  <div class="reveal">
+    <div class="slides">
+
+
+<section id="stochastic-evolving-food-webs" class="slide level1">
 <h1>Stochastic, evolving food webs</h1>
 <h2 id="granada-seminar">Granada Seminar</h2>
 <p><a href="http://gvdr.github.io">Giulio Dalla Riva</a> and Daniel B. Stouffer (UC) University of Canterbury, NZ June 16, 2015</p>
 <p>Many thanks to: Mike Steel, Arne Mooers, Carey Priebe, the StoufferLab, …</p>
-</div>
-<div class="slide section level1">
+</section>
+<section class="slide level1">
 
 <p>You can access these slides at</p>
 <p><a href="http://wcm1.web.rice.edu/slides/onlinepub.html">http://wcm1.web.rice.edu/slides/onlinepub.html</a>.</p>
 <p>Press the <code>Escape</code> key to see all slides.</p>
-</div>
-<div id="why-am-i-here" class="slide section level1">
+</section>
+<section id="why-am-i-here" class="slide level1">
 <h1>Why am I here?</h1>
 <p>What does online publishing have to do with the digital humanities?</p>
-</div>
-<div id="section" class="slide section level1">
+</section>
+<section id="section" class="slide level1">
 <h1></h1>
 <blockquote>
 <p>“… the true power of the digital humanities … has nothing to do with <strong>production</strong> of either tools or research. The heart of the digital humanities is not the production of knowledge; it’s the <strong>reproduction</strong> of knowledge.”</p>
@@ -40,8 +55,8 @@
 Is there a distinctive DH approach to publishing?
 </p>
 
-</div>
-<div id="section-1" class="slide section level1">
+</section>
+<section id="section-1" class="slide level1">
 <h1></h1>
 <section>
 <p>As humanists, we already consume online publications …</p>
@@ -68,28 +83,28 @@ Publish or be published.
 
 <h2 id="the-question-is">The question is …</h2>
 <p><strong>not</strong> whether we <em>will</em> publish online but <em>how</em> and <em>on what terms</em>.</p>
-</div>
-<div id="section-2" class="slide section level1">
+</section>
+<section id="section-2" class="slide level1">
 <h1></h1>
 <h3 id="section-3"></h3>
-<div class="figure">
+<figure>
 <img src="./img/aaronswartz.jpg" />
-</div>
+</figure>
 <p><a href="http://www.aaronsw.com">Aaron Swartz</a> (1986–2013)</p>
 <h3 id="section-4"></h3>
 <iframe width="800" height="450" frameborder="0" scrolling="no" src="http://www.washingtonpost.com/wp-srv/video/videoEmbed.html?uuid=ec48b0f2-5e94-11e2-90a0-73c8343c6d61&noheadline=0"></iframe>
 
 <p>Links: <a href="http://www.washingtonpost.com/video/thefold/aaron-swartz-honored-with-pdftribute/2013/01/14/ec48b0f2-5e94-11e2-90a0-73c8343c6d61_video.html">Washington Post</a>; <a href="http://pdftribute.net">#PDFtribute</a></p>
 <h3 id="online-publishing-raises-questions-about">Online publishing raises questions about:</h3>
-<ol style="list-style-type: decimal">
+<ol type="1">
 <li>Access and economics</li>
 <li>Gatekeeping and peer review</li>
 <li>Scholarly collaboration</li>
 </ol>
 <h3 id="online-publishing-can-be">Online publishing can be …</h3>
 <p>open <em>or</em> closed, post-print <em>or</em> pre-print, reviewed before publication <em>or</em> reviewed after.</p>
-</div>
-<div id="section-5" class="slide section level1">
+</section>
+<section id="section-5" class="slide level1">
 <h1></h1>
 <h2 id="reasons-for-openness">Reasons for Openness</h2>
 <p>… they’re not just for DHers.</p>
@@ -104,14 +119,14 @@ Publish or be published.
 </blockquote>
 <p><a href="http://www.digitalculture.org/hacking-the-academy/hacking-scholarship/#scholarship-unsworth">John Unsworth</a></p>
 <h2 id="section-8"></h2>
-<div class="figure">
-<img src="./img/arxiv.png" alt="http://arxiv.org" /><p class="caption"><a href="http://arxiv.org">http://arxiv.org</a></p>
-</div>
+<figure>
+<img src="./img/arxiv.png" alt="http://arxiv.org" /><figcaption><a href="http://arxiv.org">http://arxiv.org</a></figcaption>
+</figure>
 <h2 id="section-9"></h2>
 <p>Policies may already be more open than you think.</p>
-<div class="figure">
-<img src="./img/sherpa.png" alt="http://www.sherpa.ac.uk/romeo/" /><p class="caption"><a href="http://www.sherpa.ac.uk/romeo/">http://www.sherpa.ac.uk/romeo/</a></p>
-</div>
+<figure>
+<img src="./img/sherpa.png" alt="http://www.sherpa.ac.uk/romeo/" /><figcaption><a href="http://www.sherpa.ac.uk/romeo/">http://www.sherpa.ac.uk/romeo/</a></figcaption>
+</figure>
 <h2 id="section-10"></h2>
 <p>Examples of online publishing in non-DH fields:</p>
 <ul>
@@ -121,8 +136,8 @@ Publish or be published.
 <li><a href="http://earlyamericanists.com">The Junto</a></li>
 <li><a href="http://www.inthemedievalmiddle.com">In the Middle</a></li>
 </ul>
-</div>
-<div id="section-11" class="slide section level1">
+</section>
+<section id="section-11" class="slide level1">
 <h1></h1>
 <h2 id="reasons-for-openness-1">Reasons for Openness</h2>
 <p>… the DH Manifesto version.</p>
@@ -141,21 +156,21 @@ Publish or be published.
 <p>“The digital humanities community embraces openness because of both self-interest and ethical aspirations. In order to create digital scholarship, researchers typically need access to data, tools, and dissemination platforms. … Openness [also] supports related values such as transdisciplinarity, collaboration, and the democratization of knowledge.”</p>
 </blockquote>
 <p><a href="http://dhdebates.gc.cuny.edu/debates/text/13">Lisa Spiro</a></p>
-</div>
-<div id="is-this-utopian" class="slide section level1">
+</section>
+<section id="is-this-utopian" class="slide level1">
 <h1>Is this Utopian?</h1>
-<div class="figure">
-<img src="./img/openutopia.png" alt="http://theopenutopia.org" /><p class="caption"><a href="http://theopenutopia.org">http://theopenutopia.org</a></p>
-</div>
-</div>
-<div id="section-15" class="slide section level1">
+<figure>
+<img src="./img/openutopia.png" alt="http://theopenutopia.org" /><figcaption><a href="http://theopenutopia.org">http://theopenutopia.org</a></figcaption>
+</figure>
+</section>
+<section id="section-15" class="slide level1">
 <h1></h1>
 <blockquote>
 <p>“… the problem of open access isn’t just about the ethics of freeing and sharing scholarly information. It’s as much — if not more — about the psychology and incentives around scholarly publishing. We need to think these issues through much more deeply to make open access widespread.”</p>
 </blockquote>
 <p><a href="http://www.wired.com/opinion/2013/01/we-need-more-than-releasing-articles-to-make-open-access-work/">Dan Cohen</a></p>
-</div>
-<div id="section-16" class="slide section level1">
+</section>
+<section id="section-16" class="slide level1">
 <h1></h1>
 <h2 id="digital-humanists-are-rethinking">Digital Humanists are Rethinking:</h2>
 <ul>
@@ -166,51 +181,51 @@ Publish or be published.
 <li>Genre conventions</li>
 </ul>
 <h2 id="section-17"></h2>
-<div class="figure">
-<img src="./img/commentpress.png" alt="http://www.plannedobsolescence.net/cpdraft/" /><p class="caption"><a href="http://www.plannedobsolescence.net/cpdraft/">http://www.plannedobsolescence.net/cpdraft/</a></p>
-</div>
+<figure>
+<img src="./img/commentpress.png" alt="http://www.plannedobsolescence.net/cpdraft/" /><figcaption><a href="http://www.plannedobsolescence.net/cpdraft/">http://www.plannedobsolescence.net/cpdraft/</a></figcaption>
+</figure>
 <h2 id="section-18"></h2>
-<div class="figure">
-<img src="./img/mediacommons.png" alt="http://mediacommons.futureofthebook.org/mcpress/" /><p class="caption"><a href="http://mediacommons.futureofthebook.org/mcpress/">http://mediacommons.futureofthebook.org/mcpress/</a></p>
-</div>
+<figure>
+<img src="./img/mediacommons.png" alt="http://mediacommons.futureofthebook.org/mcpress/" /><figcaption><a href="http://mediacommons.futureofthebook.org/mcpress/">http://mediacommons.futureofthebook.org/mcpress/</a></figcaption>
+</figure>
 <h2 id="section-19"></h2>
-<div class="figure">
-<img src="./img/digitalculture.png" alt="http://digitalculture.org" /><p class="caption"><a href="http://digitalculture.org">http://digitalculture.org</a></p>
-</div>
+<figure>
+<img src="./img/digitalculture.png" alt="http://digitalculture.org" /><figcaption><a href="http://digitalculture.org">http://digitalculture.org</a></figcaption>
+</figure>
 <h2 id="section-20"></h2>
-<div class="figure">
-<img src="./img/anvil.png" alt="http://anvilacademic.org" /><p class="caption"><a href="http://anvilacademic.org">http://anvilacademic.org</a></p>
-</div>
+<figure>
+<img src="./img/anvil.png" alt="http://anvilacademic.org" /><figcaption><a href="http://anvilacademic.org">http://anvilacademic.org</a></figcaption>
+</figure>
 <h2 id="section-21"></h2>
-<div class="figure">
-<img src="./img/dhnow.png" alt="http://digitalhumanitiesnow.org" /><p class="caption"><a href="http://digitalhumanitiesnow.org">http://digitalhumanitiesnow.org</a></p>
-</div>
+<figure>
+<img src="./img/dhnow.png" alt="http://digitalhumanitiesnow.org" /><figcaption><a href="http://digitalhumanitiesnow.org">http://digitalhumanitiesnow.org</a></figcaption>
+</figure>
 <h2 id="section-22"></h2>
-<div class="figure">
-<img src="./img/anthologize.png" alt="http://anthologize.org" /><p class="caption"><a href="http://anthologize.org">http://anthologize.org</a></p>
-</div>
+<figure>
+<img src="./img/anthologize.png" alt="http://anthologize.org" /><figcaption><a href="http://anthologize.org">http://anthologize.org</a></figcaption>
+</figure>
 <h2 id="section-23"></h2>
-<div class="figure">
-<img src="./img/miningdispatch.png" alt="http://dsl.richmond.edu/dispatch/" /><p class="caption"><a href="http://dsl.richmond.edu/dispatch/">http://dsl.richmond.edu/dispatch/</a></p>
-</div>
-</div>
-<div id="where-do-i-start" class="slide section level1">
+<figure>
+<img src="./img/miningdispatch.png" alt="http://dsl.richmond.edu/dispatch/" /><figcaption><a href="http://dsl.richmond.edu/dispatch/">http://dsl.richmond.edu/dispatch/</a></figcaption>
+</figure>
+</section>
+<section id="where-do-i-start" class="slide level1">
 <h1>Where Do I Start?</h1>
-</div>
-<div id="section-24" class="slide section level1">
+</section>
+<section id="section-24" class="slide level1">
 <h1></h1>
 <h2 id="consider">Consider …</h2>
-<ol style="list-style-type: decimal">
+<ol type="1">
 <li>Posting work in the Rice <a href="http://scholarship.rice.edu">Digital Scholarship Archive</a>.</li>
 <li>Starting a blog about your research on <a href="http://blogs.rice.edu">Rice Blogs</a>, or creating a webpage (<a href="http://wcm1.web.rice.edu">here’s mine</a>).</li>
 <li>Contributing comments to a blog in your field.</li>
 <li>Adopting a <a href="http://creativecommons.org">Creative Commons</a> license for online work.</li>
 </ol>
-</div>
-<div id="discussion" class="slide section level1">
+</section>
+<section id="discussion" class="slide level1">
 <h1>Discussion</h1>
-</div>
-<div id="section-25" class="slide section level1">
+</section>
+<section id="section-25" class="slide level1">
 <h1></h1>
 <h2 id="links">Links</h2>
 <h2 id="further-reading">Further Reading</h2>
@@ -228,6 +243,34 @@ Publish or be published.
 </ul>
 <h2 id="how-this-slideshow-was-made">How This Slideshow Was Made</h2>
 <p>This slideshow was made using a combination of <a href="http://lab.hakim.se/reveal-js/">reveal.js</a> and <a href="https://github.com/jgm/pandoc/wiki/Using-pandoc-to-produce-reveal.js-slides">Pandoc</a>.</p>
-</div>
-</body>
+</section>
+    </div>
+  </div>
+
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.min.js"></script>
+
+  <script>
+
+      // Full list of configuration options available here:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+//          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
+//          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+]});
+    </script>
+    </body>
 </html>
