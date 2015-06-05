@@ -1,3 +1,7 @@
+% Stochastic, evolving food webs
+% Giulio Dalla Riva
+% June 16, 2015
+
 # Stochastic, evolving food webs 
 
 ##Granada Seminar
@@ -20,7 +24,7 @@ Press the `Escape` key to see all slides.
 
 What does online publishing have to do with the digital humanities?
 
-# 
+##
 
 > "... the true power of the digital humanities ... has nothing to do with **production** of either tools or research. The heart of the digital humanities is not the production of knowledge; it's the **reproduction** of knowledge."
 
