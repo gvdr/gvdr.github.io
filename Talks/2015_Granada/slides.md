@@ -1,34 +1,27 @@
-% Stochastic, evolving food webs
-% Giulio Dalla Riva
-% June 16, 2015
+%Stochasticity and Evolution in Food Webs
+%[Giulio Dalla Riva](http://gvdr.github.io) \
+ University of Canterbury, NZ
+%Granada Seminar <br/> June 16, 2015
 
-# Stochastic, evolving food webs 
+# Stochasticity and Evolution in Food Webs
 
-##Granada Seminar
+##Giulio Dalla Riva \
+  http://gvdr.github.io
 
-[Giulio Dalla Riva](http://gvdr.github.io) and Daniel B. Stouffer (UC)
-University of Canterbury, NZ
-June 16, 2015
+Joint work with \
+Daniel B. Stouffer (University of Canterbury)
 
-Many thanks to: Mike Steel, Arne Mooers, Carey Priebe, the StoufferLab, ...
+Many thanks to \
+Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's & J. Tylianakis's labs; ...
 
----
-# Slide Title <!-- common for the following three subslides -->
+Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
-## First vertical-subslide
+# In the Serengeti <!-- common for the following three subslides -->
 
--   point one
--   point two
--   point three
+What is an ecosystem?
 
-## Second vertical-subslide
+## Ecological interactions
 
--   point a
--   point b
--   point c
+. . .
 
-## First vertical-subslide
-
--   point foo
--   point bar
--   point baz
+## Evolutionary histories
