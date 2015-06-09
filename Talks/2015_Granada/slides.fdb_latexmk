@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1433883431 "slides.tex" "slides.pdf" "slides" 1433883432
+["pdflatex"] 1433883594 "slides.tex" "slides.pdf" "slides" 1433883595
   "/etc/texmf/web2c/texmf.cnf" 1433548072 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1095.tfm" 1136768653 3584 8ece407347b270c252c46fdfaef5a9ef ""
@@ -224,15 +224,15 @@
   "images/Serengeti_background.jpg" 1433824347 632029 da12542414cd1a7526660504ad5d534a ""
   "images/small_fw.pdf" 1433824347 21364 c385bd61059899276ace400c781276b5 ""
   "images/small_phylo.pdf" 1433824347 21581 a1b7fd0e846869238a24065bebdb3f5d ""
-  "slides.aux" 1433883432 1968 9f8be9f291caddcc4a0320d133f5081a ""
-  "slides.nav" 1433883432 888 e4afaa84aa0c37771ebd20535af126c6 ""
-  "slides.out" 1433883431 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "slides.tex" 1433883425 3707 fbb77c5e9c84b4c0ef5e39f8e67fccff ""
+  "slides.aux" 1433883595 1968 9f8be9f291caddcc4a0320d133f5081a ""
+  "slides.nav" 1433883595 888 e4afaa84aa0c37771ebd20535af126c6 ""
+  "slides.out" 1433883594 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "slides.tex" 1433883591 3701 e76031f06255bdf166b732c642dd8bf4 ""
   (generated)
-  "slides.nav"
-  "slides.toc"
-  "slides.aux"
-  "slides.snm"
   "slides.out"
+  "slides.aux"
+  "slides.toc"
   "slides.log"
+  "slides.snm"
   "slides.pdf"
+  "slides.nav"

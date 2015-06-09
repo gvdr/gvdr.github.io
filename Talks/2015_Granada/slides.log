@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.6.5)  9 JUN 2015 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.6.5)  9 JUN 2015 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1720,10 +1720,10 @@ Package rerunfilecheck Info: File `slides.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
  ) 
 Here is how much of TeX's memory you used:
- 21924 strings out of 493105
- 426225 string characters out of 6137073
+ 21925 strings out of 493105
+ 426242 string characters out of 6137073
  515008 words of memory out of 5000000
- 24809 multiletter control sequences out of 15000+600000
+ 24810 multiletter control sequences out of 15000+600000
  42637 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,17n,59p,408b,802s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1734,7 +1734,7 @@ hare/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm
 f/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss
 8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmsy10.pfb>
-Output written on slides.pdf (13 pages, 803245 bytes).
+Output written on slides.pdf (13 pages, 803252 bytes).
 PDF statistics:
  437 PDF objects out of 1000 (max. 8388607)
  395 compressed objects within 4 object streams
