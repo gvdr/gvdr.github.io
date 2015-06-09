@@ -3,18 +3,6 @@
  University of Canterbury, NZ
 %Granada Seminar <br/> June 16, 2015
 
-# Stochasticity and Evolution in Food Webs
-
-##Giulio Dalla Riva \
-  http://gvdr.github.io
-
-Joint work with \
-Daniel B. Stouffer (University of Canterbury)
-
-Many thanks to \
-Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's & J. Tylianakis's labs; ...
-
-Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
 # species ARE related
  +--------+--------+
@@ -23,11 +11,10 @@ Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
  | Test 4 | Test 5 |
  +--------+--------+
 
-| ONE tree of life | ONE network of interactions|
-| phylogeny        | Food Web                   |
-|------------------|----------------------------|
-|image             |   image                    |
-|------------------|----------------------------|
+| ONE tree of life   | ONE network of interactions  |
+|:------------------:|:----------------------------:|
+| phylogeny          | Food Web                     |
+|image               |   image                      |
 
 
 # Evolution in/of Ecology
@@ -55,10 +42,19 @@ vcv(X_e|evolutionary model) ~ vcv(X)
 * Evolutionary model is inadequate
 
 # (Not a) Conclusion
-Spoiler 1: Evolutionary distinctiveness vs. Web Centrality
 
-Spoiler 2: An ecological informed model of species evolution maybe it's (almost) there.
+* Spoiler 1: Evolutionary distinctiveness vs. Web Centrality
+
+* Spoiler 2: An ecological informed model of species evolution maybe it's (almost) there.
 
 # Thanks!
+
+Joint work with \
+Daniel B. Stouffer (University of Canterbury)
+
+Many thanks to \
+Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's & J. Tylianakis's labs; ...
+
+Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
 P.S. I am looking for a research team where to develop further this picture. Contact me if interested: gvd16@uclive.ac.nz

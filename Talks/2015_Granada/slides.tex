@@ -1,32 +1,155 @@
-\begin{frame}\frametitle{}
+\documentclass[ignorenonframetext,]{beamer}
+\usetheme{boxes}
+\usecolortheme{crane}
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{caption label separator}{:}
+\setbeamercolor{caption name}{fg=normal text.fg}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\usepackage{lmodern}
+\ifxetex
+  \usepackage{fontspec,xltxtra,xunicode}
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\else
+  \ifluatex
+    \usepackage{fontspec}
+    \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+    \newcommand{\euro}{€}
+  \else
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc}
+      \fi
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\usepackage{longtable,booktabs}
+\usepackage{caption}
+% These lines are needed to make table captions work with longtable:
+\makeatletter
+\def\fnum@table{\tablename~\thetable}
+\makeatother
 
-\begin{block}{Stochasticity and Evolution in Food Webs}
+% Comment these out if you don't want a slide with just the
+% part/section/subsection/subsubsection title:
+\AtBeginPart{
+  \let\insertpartnumber\relax
+  \let\partname\relax
+  \frame{\partpage}
+}
+\AtBeginSection{
+  \let\insertsectionnumber\relax
+  \let\sectionname\relax
+  \frame{\sectionpage}
+}
+\AtBeginSubsection{
+  \let\insertsubsectionnumber\relax
+  \let\subsectionname\relax
+  \frame{\subsectionpage}
+}
 
-\begin{block}{Giulio Dalla Riva http://gvdr.github.io}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
 
-Joint work withDaniel B. Stouffer (University of Canterbury)
+\title{Stochasticity and Evolution in Food Webs}
+\author{\href{http://gvdr.github.io}{Giulio Dalla Riva}\\ University of
+Canterbury, NZ}
+\date{Granada Seminar June 16, 2015}
 
-Many thanks to Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \&
+\begin{document}
+\frame{\titlepage}
+
+\begin{frame}{species ARE related}
+
++--------+--------+ \textbar{} Test \textbar{} Test 2 \textbar{}
++========+========+ \textbar{} Test 4 \textbar{} Test 5 \textbar{}
++--------+--------+
+
+\begin{longtable}[c]{@{}cc@{}}
+\toprule\addlinespace
+ONE tree of life & ONE network of interactions
+\\\addlinespace
+\midrule\endhead
+phylogeny & Food Web
+\\\addlinespace
+image & image
+\\\addlinespace
+\bottomrule
+\end{longtable}
+
+\end{frame}
+
+\begin{frame}{Evolution in/of Ecology}
+
+Evolution shaped the stochastic backbones of Food Webs
+
+image
+
+\end{frame}
+
+\begin{frame}{Food Webs embedded}
+
+\begin{block}{Random Dot Product Graphs}
+
+image
+
+\end{block}
+
+\begin{block}{Phylogenetic vs.~Observed traits}
+
+vcv(X\_e\textbar{}evolutionary model) \textasciitilde{} vcv(X)
+
+\end{block}
+
+\end{frame}
+
+\begin{frame}{More questions (than answers)}
+
+\begin{itemize}[<+->]
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  There is phylogenetic signal
+\item
+  It is quite weak
+\item
+  It saturates with dimensionality
+\item
+  Fine wirings may be deceiving
+\item
+  Evolutionary model is inadequate
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{(Not a) Conclusion}
+
+\begin{itemize}[<+->]
+\item
+  Spoiler 1: Evolutionary distinctiveness vs.~Web Centrality
+\item
+  Spoiler 2: An ecological informed model of species evolution maybe
+  it's (almost) there.
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Thanks!}
+
+Joint work with\\Daniel B. Stouffer (University of Canterbury)
+
+Many thanks to\\Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \&
 J. Tylianakis's labs; \ldots{}
 
 Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
-\end{block}
-
-\end{block}
-
-\end{frame}
-
-\begin{frame}\frametitle{In the Serengeti }
-
-What is an ecosystem?
-
-\begin{block}{Ecological interactions}
-
-. . .
-
-or \#\# Evolutionary histories \includegraphics{images/phylo.png}
-
-\end{block}
+P.S. I am looking for a research team where to develop further this
+picture. Contact me if interested: gvd16@uclive.ac.nz
 
 \end{frame}
+
+\end{document}
