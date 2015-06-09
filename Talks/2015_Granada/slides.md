@@ -5,17 +5,11 @@
 
 
 # species ARE related
- +--------+--------+
- | Test   | Test 2 | 
- +========+========+
- | Test 4 | Test 5 |
- +--------+--------+
-
-| ONE tree of life   | ONE network of interactions  |
-|:------------------:|:----------------------------:|
-| phylogeny          | Food Web                     |
-|image               |   image                      |
-
+\begin{tabular}{|c|c|}\hline
+Evolution & Ecology \\\hline\hline
+ONE phylogeny & ONE food web \\
+image & image \\ \hline
+\end{tabular}
 
 # Evolution in/of Ecology
 
@@ -57,4 +51,4 @@ Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's & J. Tylianakis's labs; ..
 
 Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
-P.S. I am looking for a research team where to develop further this picture. Contact me if interested: gvd16@uclive.ac.nz
+\tiny{By the way, I'm looking for a postdoc.}
