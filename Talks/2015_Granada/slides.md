@@ -17,7 +17,11 @@ Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's & J. Tylianakis's labs; ..
 Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
 # species ARE related
-
+ +--------+--------+
+ | Test   | Test 2 | 
+ +========+========+
+ | Test 4 | Test 5 |
+ +--------+--------+
 
 | ONE tree of life | ONE network of interactions|
 | phylogeny        | Food Web                   |
@@ -43,11 +47,12 @@ image
 vcv(X_e|evolutionary model) ~ vcv(X)
 
 # More questions (than answers)
-* There actually is phylogenetic signal
-* It is (quite) weak
+
+* There is phylogenetic signal
+* It is quite weak
 * It saturates with dimensionality
 * Fine wirings may be deceiving
-* Null model is inadequate
+* Evolutionary model is inadequate
 
 # (Not a) Conclusion
 Spoiler 1: Evolutionary distinctiveness vs. Web Centrality
