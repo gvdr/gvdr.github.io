@@ -229,8 +229,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthe
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemedefault.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeboxes.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/themes/theme/beamerthemeboxes.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemecrane.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/themes/color/beamercolorthemecrane.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
 INPUT /usr/share/texmf/tex/latex/lm/lmodern.sty
