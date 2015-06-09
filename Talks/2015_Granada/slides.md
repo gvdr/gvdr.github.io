@@ -43,11 +43,11 @@ image
 vcv(X_e|evolutionary model) ~ vcv(X)
 
 # More questions (than answers)
-. There actually is phylogenetic signal
-. It is (quite) weak
-. It saturates with dimensionality
-. Fine wirings may be deceiving
-. Null model is inadequate
+* There actually is phylogenetic signal
+* It is (quite) weak
+* It saturates with dimensionality
+* Fine wirings may be deceiving
+* Null model is inadequate
 
 # (Not a) Conclusion
 Spoiler 1: Evolutionary distinctiveness vs. Web Centrality
