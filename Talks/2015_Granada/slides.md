@@ -8,7 +8,7 @@
 \begin{tabular}{|c|c|}\hline
 Evolution & Ecology \\\hline\hline
 ONE phylogeny & ONE food web \\
-image & image \\ \hline
+\includegraphics[width=0.5 \textwidth]{images/small_fw.pdf} & \includegraphics[width=0.5 \textwidth]{images/small_phylo.pdf} \\ \hline
 \end{tabular}
 
 # Evolution in/of Ecology
