@@ -402,6 +402,10 @@ INPUT ./images/RDPGmodel.pdf
 INPUT ./images/RDPGmodel.pdf
 INPUT images/Serengeti_background.jpg
 INPUT ./images/Serengeti_background.jpg
+INPUT images/RDPGmodel.pdf
+INPUT ./images/RDPGmodel.pdf
+INPUT images/Serengeti_background.jpg
+INPUT ./images/Serengeti_background.jpg
 INPUT images/Serengeti_background.jpg
 INPUT ./images/Serengeti_background.jpg
 INPUT images/Serengeti_background.jpg
