@@ -25,7 +25,9 @@ image
 
 ## Phylogenetic vs. Observed traits
 
-vcv(X_e|evolutionary model) ~ vcv(X)
+\begin{equation*}
+vcv\left( \hat{X} | \mbox{ evolutionary model} \right) \mbox{ vs. } vcv\left(X\right)
+\end{equation*}
 
 # More questions (than answers)
 
@@ -42,13 +44,16 @@ vcv(X_e|evolutionary model) ~ vcv(X)
 * Spoiler 2: An ecological informed model of species evolution maybe it's (almost) there.
 
 # Thanks!
-
-Joint work with \
+\begin{centering}
+Joint work with  
 Daniel B. Stouffer (University of Canterbury)
 
-Many thanks to \
-Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's & J. Tylianakis's labs; ...
+Many thanks to  
+Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \& J. Tylianakis's labs; ...
 
 Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
+\vspace{3cm}
+
 \tiny{By the way, I'm looking for a postdoc.}
+\end{centering}
