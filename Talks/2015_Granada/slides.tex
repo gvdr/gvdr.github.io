@@ -8,6 +8,7 @@
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage{lmodern}
+\usepackage{tikz}
 \ifxetex
   \usepackage{fontspec,xltxtra,xunicode}
   \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
@@ -26,12 +27,6 @@
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
 \IfFileExists{microtype.sty}{\usepackage{microtype}}{}
-\usepackage{longtable,booktabs}
-\usepackage{caption}
-% These lines are needed to make table captions work with longtable:
-\makeatletter
-\def\fnum@table{\tablename~\thetable}
-\makeatother
 
 % Comment these out if you don't want a slide with just the
 % part/section/subsection/subsubsection title:
@@ -61,26 +56,21 @@
 Canterbury, NZ}
 \date{Granada Seminar June 16, 2015}
 
+\usebackgroundtemplate{%
+\tikz\node[opacity=0.2] {\includegraphics[height=\paperheight,width=\paperwidth]{images/Serengeti_background.jpg}};}
+
 \begin{document}
 \frame{\titlepage}
 
 \begin{frame}{species ARE related}
 
-+--------+--------+ \textbar{} Test \textbar{} Test 2 \textbar{}
-+========+========+ \textbar{} Test 4 \textbar{} Test 5 \textbar{}
-+--------+--------+
-
-\begin{longtable}[c]{@{}cc@{}}
-\toprule\addlinespace
-ONE tree of life & ONE network of interactions
-\\\addlinespace
-\midrule\endhead
-phylogeny & Food Web
-\\\addlinespace
-image & image
-\\\addlinespace
-\bottomrule
-\end{longtable}
+\begin{centering}
+\begin{tabular}{|c|c|}\hline
+Evolution & Ecology \\\hline\hline
+ONE phylogeny & ONE food web \\
+\includegraphics[width=0.5 \textwidth]{images/small_phylo.pdf} & \includegraphics[width=0.5 \textwidth]{images/small_fw.pdf} \\ \hline
+\end{tabular}
+\end{centering}
 
 \end{frame}
 
@@ -88,7 +78,7 @@ image & image
 
 Evolution shaped the stochastic backbones of Food Webs
 
-image
+{[}Two images: Serengeti and Weddell{]}
 
 \end{frame}
 
@@ -96,13 +86,17 @@ image
 
 \begin{block}{Random Dot Product Graphs}
 
-image
+\begin{centering}
+\includegraphics[width=0.7\textwidth]{images/RDPGmodel.pdf}
+\end{centering}
 
 \end{block}
 
 \begin{block}{Phylogenetic vs.~Observed traits}
 
-vcv(X\_e\textbar{}evolutionary model) \textasciitilde{} vcv(X)
+\begin{equation*}
+vcv\left( \hat{X} | \mbox{ evolutionary model} \right) \mbox{ vs. } vcv\left(X\right)
+\end{equation*}
 
 \end{block}
 
@@ -140,15 +134,21 @@ vcv(X\_e\textbar{}evolutionary model) \textasciitilde{} vcv(X)
 
 \begin{frame}{Thanks!}
 
-Joint work with\\Daniel B. Stouffer (University of Canterbury)
+\begin{centering}
 
-Many thanks to\\Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \&
-J. Tylianakis's labs; \ldots{}
+Joint work with  
+Daniel B. Stouffer (University of Canterbury)
+
+Many thanks to  
+Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \& J. Tylianakis's labs; ...
 
 Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
 
-P.S. I am looking for a research team where to develop further this
-picture. Contact me if interested: gvd16@uclive.ac.nz
+\vspace{2cm}
+
+\small{By the way, I'm looking for a postdoc.}
+
+\end{centering}
 
 \end{frame}
 
