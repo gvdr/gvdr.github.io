@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.6.5)  9 JUN 2015 20:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.6.5)  9 JUN 2015 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1564,16 +1564,16 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 File: images/RDPGmodel.pdf Graphic file (type pdf)
 
 <use images/RDPGmodel.pdf>
-Package pdftex.def Info: images/RDPGmodel.pdf used on input line 99.
+Package pdftex.def Info: images/RDPGmodel.pdf used on input line 100.
 (pdftex.def)             Requested size: 171.14764pt x 162.24025pt.
 
-Overfull \vbox (1.30261pt too high) detected at line 99
+Overfull \vbox (1.30261pt too high) detected at line 100
  []
 
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 99.
-
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 100
+.
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
 Overfull \hbox (2.43425pt too wide) has occurred while \output is active
@@ -1585,16 +1585,16 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
  <./images/RDPGmodel.pdf>]
 File: images/RDPGmodel.pdf Graphic file (type pdf)
  <use images/RDPGmodel.pdf>
-Package pdftex.def Info: images/RDPGmodel.pdf used on input line 99.
+Package pdftex.def Info: images/RDPGmodel.pdf used on input line 100.
 (pdftex.def)             Requested size: 171.14764pt x 162.24025pt.
 
-Overfull \vbox (1.30261pt too high) detected at line 99
+Overfull \vbox (1.30261pt too high) detected at line 100
  []
 
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 99.
-
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 100
+.
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
 Overfull \hbox (2.43425pt too wide) has occurred while \output is active
@@ -1606,7 +1606,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 117
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 118
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1619,7 +1619,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 117
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 118
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1632,7 +1632,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 117
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 118
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1645,7 +1645,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 117
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 118
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1658,7 +1658,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 117
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 118
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1671,7 +1671,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 129
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 130
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1684,7 +1684,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 129
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 130
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1697,7 +1697,7 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 ]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 149
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 150
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1717,14 +1717,14 @@ Overfull \hbox (2.43425pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
  (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
  ) 
 Here is how much of TeX's memory you used:
  21924 strings out of 493105
