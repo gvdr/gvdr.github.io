@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.6.5)  10 JUN 2015 03:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.6.5)  10 JUN 2015 03:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1543,40 +1543,202 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 96.
  [4
 
 ]
+<images/finewirings.jpg, id=127, 1606.0pt x 1204.5pt>
+File: images/finewirings.jpg Graphic file (type jpg)
 
-LaTeX Warning: File `images/finewirings.jpg' not found on input line 108.
+<use images/finewirings.jpg>
+Package pdftex.def Info: images/finewirings.jpg used on input line 108.
+(pdftex.def)             Requested size: 179.42967pt x 134.5733pt.
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+ <use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 108
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [5
 
+ <./images/finewirings.jpg>] <images/rohr.jpg, id=153, 1917.1625pt x 1975.38pt>
+File: images/rohr.jpg Graphic file (type jpg)
 
-! Package pdftex.def Error: File `images/finewirings.jpg' not found.
+<use images/rohr.jpg>
+Package pdftex.def Info: images/rohr.jpg used on input line 120.
+(pdftex.def)             Requested size: 130.58765pt x 134.5733pt.
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+ <use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 120
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [6
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.108 \end{frame}
-                 
-? X
- 
+ <./images/rohr.jpg>]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+ <use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 129
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [7
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 148.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 148.
+
+<images/RDPGmodel.pdf, id=205, 370.18298pt x 350.91101pt>
+File: images/RDPGmodel.pdf Graphic file (type pdf)
+
+<use images/RDPGmodel.pdf>
+Package pdftex.def Info: images/RDPGmodel.pdf used on input line 148.
+(pdftex.def)             Requested size: 114.15417pt x 108.20836pt.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 148.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 148
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [8
+
+ <./images/RDPGmodel.pdf>]
+File: images/RDPGmodel.pdf Graphic file (type pdf)
+
+<use images/RDPGmodel.pdf>
+Package pdftex.def Info: images/RDPGmodel.pdf used on input line 148.
+(pdftex.def)             Requested size: 114.15417pt x 108.20836pt.
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+ <use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 148
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [9
+
+]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 170
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [10
+
+]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 170
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [11
+
+]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 170
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [12
+
+]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 170
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [13
+
+]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 170
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [14
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 184.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 184.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 184.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 184.
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 184
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [15
+
+]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 184
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [16
+
+]
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 204
+.
+(pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
+ [17
+
+]
+\tf@nav=\write6
+\openout6 = `slides.nav'.
+
+\tf@toc=\write7
+\openout7 = `slides.toc'.
+
+\tf@snm=\write8
+\openout8 = `slides.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
+ (./slides.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
+Package rerunfilecheck Info: File `slides.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
+ ) 
 Here is how much of TeX's memory you used:
- 21749 strings out of 493105
- 420801 string characters out of 6137073
- 509864 words of memory out of 5000000
- 24666 multiletter control sequences out of 15000+600000
- 42536 words of font info for 50 fonts, out of 8000000 for 9000
+ 22045 strings out of 493105
+ 426617 string characters out of 6137073
+ 510864 words of memory out of 5000000
+ 24905 multiletter control sequences out of 15000+600000
+ 77477 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,14n,59p,404b,802s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation17} has been referenced but does not exis
-t, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/pu
-blic/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb>
-Output written on slides.pdf (4 pages, 730583 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
+/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb>
+</usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on slides.pdf (17 pages, 1853718 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 11 named destinations out of 1000 (max. 500000)
- 12339 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 534 PDF objects out of 1000 (max. 8388607)
+ 482 compressed objects within 5 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 22606 words of extra memory for PDF output out of 24883 (max. 10000000)
 
