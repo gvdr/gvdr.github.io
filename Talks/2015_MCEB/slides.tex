@@ -1,49 +1,29 @@
-\documentclass[ignorenonframetext,]{beamer}
-\usetheme{default}
-\usecolortheme{dove}
-\setbeamertemplate{caption}[numbered]
-\setbeamertemplate{caption label separator}{:}
-\setbeamercolor{caption name}{fg=normal text.fg}
+\documentclass[]{beamer}
 \usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
+\usepackage{fixltx2e}
 \usepackage{lmodern}
 \usepackage{tikz}
-\ifxetex
-  \usepackage{fontspec,xltxtra,xunicode}
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\else
-  \ifluatex
-    \usepackage{fontspec}
-    \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-    \newcommand{\euro}{€}
-  \else
-    \usepackage[T1]{fontenc}
-    \usepackage[utf8]{inputenc}
-      \fi
-\fi
-% use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
 \IfFileExists{microtype.sty}{\usepackage{microtype}}{}
 
-% Comment these out if you don't want a slide with just the
-% part/section/subsection/subsubsection title:
-\AtBeginPart{
-  \let\insertpartnumber\relax
-  \let\partname\relax
-  \frame{\partpage}
-}
-\AtBeginSection{
-  \let\insertsectionnumber\relax
-  \let\sectionname\relax
-  \frame{\sectionpage}
-}
-\AtBeginSubsection{
-  \let\insertsubsectionnumber\relax
-  \let\subsectionname\relax
-  \frame{\subsectionpage}
+\usetheme{Warsaw}
+\usecolortheme{crane}
+\usebackgroundtemplate{%
+\tikz\node[opacity=0.2] {\includegraphics[height=\paperheight,width=\paperwidth]{images/Serengeti_background.jpg}};}
+
+\setbeamercolor{mycolor}{fg=red,bg=olive}
+
+\defbeamertemplate*{footline}{shadow theme}{%
+\leavevmode%
+\hbox{\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fil,rightskip=.3cm]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\hfill\insertshortauthor
+\end{beamercolorbox}%
+
+\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle\hfill%
+\insertframenumber\,/\,\inserttotalframenumber
+\end{beamercolorbox}}%
+\vskip0pt%
 }
 
 \setlength{\parindent}{0pt}
@@ -51,18 +31,23 @@
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \setcounter{secnumdepth}{0}
 
-\title{Stochasticity and Evolution in Food Webs}
-\author{\href{http://gvdr.github.io}{Giulio Dalla Riva}\\ University of
-Canterbury, NZ}
-\date{Granada Seminar June 16, 2015\\ {\small gvd16@uclive.ac.nz - gvdr.github.io}}
+\title{Evolving in a tangled world}
+\author{Giulio Dalla Riva\\
+\tiny{gvd16@uclive.ac.nz}\\
+}
+\date{  {\tiny Biomathematical Research Centre\\
+  University of Canterbury\\
+     gvdr.github.io\\
+     \vskip 0.5cm
+  }
+MCEB - June 22, 2015}
 
-\usebackgroundtemplate{%
-\tikz\node[opacity=0.2] {\includegraphics[height=\paperheight,width=\paperwidth]{images/Serengeti_background.jpg}};}
 
 \begin{document}
-\frame{\titlepage}
+\frame{\titlepage
+\addtocounter{framenumber}{-1}}
 
-\begin{frame}{species ARE related}
+\begin{frame}{Species are entangled}
 
 \centering
 \begin{tabular}{|c|c|}\hline
@@ -79,8 +64,8 @@ Phylogeny & Food Web \\
 \centering
 \includegraphics[height=0.5 \textheight]{images/hutchinson_ecotheatreevoplay.jpg}
 \end{figure}
-
-{\small Ecology and Evolution occur on different time scales?}
+\centering
+{\tiny Ecology and Evolution occur on different time scales?}
 
 \end{frame}
 
@@ -90,32 +75,35 @@ Phylogeny & Food Web \\
 \centering
 \includegraphics[height=0.5 \textheight]{images/hutchinson_ecotheatreevoplay.jpg}
 \end{figure}
-
-{\small Maybe not, but it's complicated. Isn't it?}
+\centering
+{\tiny Well, maybe, when evolution is really fast...}
 
 \end{frame}
 
 \begin{frame}{A Web on a Tree}
 
+\centering
 It's hard to fit a Web on a Tree because of all the fine wirings.
 
-\begin{figure}
 \centering
 \includegraphics[height=0.5 \textheight]{images/finewirings.jpg}
-\caption{Courtesy of Erik Moncada}
-\end{figure}
+
+\centering
+{\tiny Courtesy of Erik Moncada}
 
 \end{frame}
 
 \begin{frame}{A Web on a Tree}
 
+\centering
 And you don't always get something out of it.
 
-\begin{figure}
 \centering
-\includegraphics[height=0.5 \textheight]{images/rohr.jpg}
-\caption{Courtesy of Rohr \& Bascompte, Am Nat 184, 5 (2014)}
-\end{figure}
+\includegraphics[height=0.7 \textheight]{images/rohr.jpg}
+
+\centering
+{\tiny Rohr \& Bascompte, Am Nat 184, 5 (2014)}
+
 
 \end{frame}
 
@@ -128,21 +116,78 @@ What if we could do without the wiring?
 
 \end{frame}
 
+
 \begin{frame}{Food Webs embedded}
 
-\begin{itemize}[<+->]
 \centering
+\begin{itemize}[<+->]
+\itemsep1pt\parskip0pt\parsep0pt
 \item
-Random Dot Product Graphs
-
-  \includegraphics[width=0.4\linewidth]{images/RDPGmodel.pdf}
-
+From $G=(V,E)$ to a metric space and back via\\
+Random Dot Product Graph
 \item
-Phylogenetic vs.~Observed traits
+$\mathbb{P}\left( i \to j\right) = \mathbb{T}_{out}\left(i\right) \cdot  \mathbb{T}_{in}\left(j\right)$
+\item
+SVD(Adjacency) gives $\mathbb{T}_{out}$ and $ \mathbb{T}_{in}$
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Food Webs embedded}
+
+
+\centering
+\includegraphics[width=0.6\linewidth]{images/RDPGmodel.pdf}
+
+\centering
+{\tiny Three species toy model. gvdr \& Daniel B. Stouffer, appearing}
+
+\end{frame}
+
+\begin{frame}{Food Webs embedded}
+
+\centering
+  \includegraphics[width=0.6\linewidth]{images/Serengeti_scatter_8.pdf}
+
+\centering
+{\tiny A Food Web as you've never seen it}
+ 
+\end{frame}
+
+\begin{frame}{Food Webs embedded}
+
+\centering
+  \includegraphics[width=0.4\linewidth]{images/Serengeti_svds.pdf}
+  \includegraphics[width=0.6\linewidth]{images/Serengeti_Traits.pdf}
+
+\centering
+{\tiny SVDS allows helps in choosing a suitable model dimension.}
+ 
+\end{frame}
+
+\begin{frame}{PCM crash course}
+
+\centering
+Observed traits vs. Expectation
+
   \begin{equation*}
-    \textrm{vcv}\left( \hat{x} | \tau, \mbox{model} \right) \mbox{ vs. } \textrm{vcv}\left(x\right)
+    \textrm{vcv}\left( \hat{x} | \tau, \mbox{null model} \right) \mbox{ vs. } \textrm{vcv}\left(x\right)
   \end{equation*}
 
+\end{frame}
+
+\begin{frame}{PCM crash course}
+
+\centering
+
+\begin{itemize}[<+->]
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+But what null model?
+\item
+Brownian Motion
+\item
+Ornstein-Uhlenbeck (BM + rubber band)
 \end{itemize}
 
 \end{frame}

@@ -1,49 +1,29 @@
-\documentclass[ignorenonframetext,]{beamer}
-\usetheme{default}
-\usecolortheme{dove}
-\setbeamertemplate{caption}[numbered]
-\setbeamertemplate{caption label separator}{:}
-\setbeamercolor{caption name}{fg=normal text.fg}
+\documentclass[]{beamer}
 \usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
+\usepackage{fixltx2e}
 \usepackage{lmodern}
 \usepackage{tikz}
-\ifxetex
-  \usepackage{fontspec,xltxtra,xunicode}
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\else
-  \ifluatex
-    \usepackage{fontspec}
-    \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-    \newcommand{\euro}{€}
-  \else
-    \usepackage[T1]{fontenc}
-    \usepackage[utf8]{inputenc}
-      \fi
-\fi
-% use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
 \IfFileExists{microtype.sty}{\usepackage{microtype}}{}
 
-% Comment these out if you don't want a slide with just the
-% part/section/subsection/subsubsection title:
-\AtBeginPart{
-  \let\insertpartnumber\relax
-  \let\partname\relax
-  \frame{\partpage}
-}
-\AtBeginSection{
-  \let\insertsectionnumber\relax
-  \let\sectionname\relax
-  \frame{\sectionpage}
-}
-\AtBeginSubsection{
-  \let\insertsubsectionnumber\relax
-  \let\subsectionname\relax
-  \frame{\subsectionpage}
+\usetheme{Warsaw}
+\usecolortheme{crane}
+\usebackgroundtemplate{%
+\tikz\node[opacity=0.2] {\includegraphics[height=\paperheight,width=\paperwidth]{images/Serengeti_background.jpg}};}
+
+\setbeamercolor{mycolor}{fg=red,bg=olive}
+
+\defbeamertemplate*{footline}{shadow theme}{%
+\leavevmode%
+\hbox{\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm plus1fil,rightskip=.3cm]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\hfill\insertshortauthor
+\end{beamercolorbox}%
+
+\begin{beamercolorbox}[wd=.5\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle\hfill%
+\insertframenumber\,/\,\inserttotalframenumber
+\end{beamercolorbox}}%
+\vskip0pt%
 }
 
 \setlength{\parindent}{0pt}
@@ -52,15 +32,19 @@
 \setcounter{secnumdepth}{0}
 
 \title{Stochasticity and Evolution in Food Webs}
-\author{\href{http://gvdr.github.io}{Giulio Dalla Riva}\\ University of
-Canterbury, NZ}
-\date{Granada Seminar June 16, 2015\\ {\small gvd16@uclive.ac.nz - gvdr.github.io}}
-
-\usebackgroundtemplate{%
-\tikz\node[opacity=0.2] {\includegraphics[height=\paperheight,width=\paperwidth]{images/Serengeti_background.jpg}};}
+\author{Giulio Dalla Riva\\
+\tiny{gvd16@uclive.ac.nz}\\
+}
+\date{  {\tiny Biomathematical Research Centre\\
+  University of Canterbury\\
+     gvdr.github.io\\
+     \vskip 0.5cm
+  }
+Granada Seminar June 16, 2015}
 
 \begin{document}
-\frame{\titlepage}
+\frame{\titlepage
+\addtocounter{framenumber}{-1}}
 
 \begin{frame}{species ARE related}
 
