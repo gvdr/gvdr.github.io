@@ -1,67 +1,68 @@
-%Stochasticity and Evolution in Food Webs
-%[Giulio Dalla Riva](http://gvdr.github.io) \
- University of Canterbury, NZ
-%Granada Seminar <br/> June 16, 2015
+---
+author:
+- |
+    [Giulio Dalla Riva](http://gvdr.github.io)\
+    University of Canterbury, NZ
+date: |
+    Granada Seminar June 16, 2015\
+    <span>gvd16@uclive.ac.nz - gvdr.github.io</span>
+title: Stochasticity and Evolution in Food Webs
+...
 
+<span>species ARE related</span>
 
-# species ARE related
+              Evolution                          Ecology
+  ---------------------------------- -------------------------------
+              Phylogeny                         Food Web
+   ![image](images/small_phylo.pdf)   ![image](images/small_fw.pdf)
 
-\begin{centering}
-\begin{tabular}{|c|c|}\hline
-Evolution & Ecology \\\hline\hline
-ONE phylogeny & ONE food web \\
-\includegraphics[width=0.5 \textwidth]{images/small_phylo.pdf} & \includegraphics[width=0.5 \textwidth]{images/small_fw.pdf} \\ \hline
-\end{tabular}
-\end{centering}
-
-# Evolution in/of Ecology
+<span>Evolution in/of Ecology</span>
 
 Evolution shaped the stochastic backbones of Food Webs
 
-[Two images: Serengeti and Weddell]
+<span>[</span>Two images: Serengeti and Weddell<span>]</span>
 
-# Food Webs embedded
+<span>Food Webs embedded</span>
 
-## Random Dot Product Graphs
+-   Random Dot Product Graphs
 
-\begin{centering}
-\includegraphics[width=0.7\textwidth]{images/RDPGmodel.pdf}
-\end{centering}
+    ![image](images/RDPGmodel.pdf)
 
-## Phylogenetic vs. Observed traits
+-   Phylogenetic vs. Observed traits
 
-\begin{equation*}
-vcv\left( \hat{X} | \mbox{ evolutionary model} \right) \mbox{ vs. } vcv\left(X\right)
-\end{equation*}
+    $$\textrm{vcv}\left( \hat{x} | \tau, \mbox{model} \right) \mbox{ vs. } \textrm{vcv}\left(x\right)$$
 
-# More questions (than answers)
+<span>More questions (than answers)</span>
 
-* There is phylogenetic signal
-* It is quite weak
-* It saturates with dimensionality
-* Fine wirings may be deceiving
-* Evolutionary model is inadequate
+-   There is phylogenetic signal\
+    <span>p-values anybody?</span>
 
-# (Not a) Conclusion
+-   It is quite weak\
+    <span>$20\% ~ 30\%$ of variation explained</span>
 
-* Spoiler 1: Evolutionary distinctiveness vs. Web Centrality
+-   It saturates with dimensionality\
+    <span>$d \in \left\{2, \dots , 8 \right\}$</span>
 
-* Spoiler 2: An ecological informed model of species evolution maybe it's (almost) there.
+-   $\therefore$ “fine wirings” may be deceiving
 
-# Thanks!
+-   Evolutionary model is inadequate\
+    <span>no interaction effects</span>
 
-\begin{centering}
+<span>(Not a) Conclusion</span>
 
-Joint work with  
-Daniel B. Stouffer (University of Canterbury)
+-   Spoiler 1: Evolutionary distinctiveness vs. Web Centrality\
+    <span>Do evolutionary unique species play a keystone role in Food
+    Webs?</span>
 
-Many thanks to  
-Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \& J. Tylianakis's labs; ...
+-   Spoiler 2: An ecological informed model of species evolution maybe
+    it’s (almost) there.\
+    <span>I am looking at you, Ornstein and Uhlenbecki $\dots$</span>
+
+<span>Thanks!</span>
+
+Joint work with Daniel B. Stouffer (University of Canterbury)
+
+Many thanks to Mike Steel; Carey Priebe; A. Mooers’, D.B. Stouffer’s &
+J. Tylianakis’s labs; ...
 
 Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
-
-\vspace{2cm}
-
-\small{By the way, I'm looking for a postdoc.}
-
-\end{centering}
