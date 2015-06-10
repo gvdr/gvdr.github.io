@@ -32,14 +32,12 @@
 \setcounter{secnumdepth}{0}
 
 \title{Evolving in a tangled world}
-\author{Giulio Dalla Riva\\
-\tiny{gvd16@uclive.ac.nz}\\
-}
-\date{  {\tiny Biomathematical Research Centre\\
+\author{Giulio Dalla Riva}
+\date{ \includegraphics[width=0.4\linewidth]{images/hyraxchew.jpg}\\
+  {\tiny Biomathematical Research Centre\\
   University of Canterbury\\
-     gvdr.github.io\\
-     \vskip 0.5cm
-  }
+  gvd16@uclive.ac.nz\\
+  gvdr.github.io\\}
 MCEB - June 22, 2015}
 
 
@@ -71,12 +69,12 @@ Phylogeny & Food Web \\
 
 \begin{frame}{the Theater and the Play}
 
-\begin{figure}
-\centering
-\includegraphics[height=0.5 \textheight]{images/hutchinson_ecotheatreevoplay.jpg}
-\end{figure}
-\centering
-{\tiny Well, maybe, when evolution is really fast...}
+
+\begin{quote}
+Although species evolve and diversify in a complex network of species interactions, current models of diversification typically ignore species interactions. Inference approaches basedon joint phylogenetic and species interaction data allow testing the degree to which species interactions are evolutionarily conserved (Ives and Godfray 2006; Rezende et al. 2007), but do not allow analysing the effect of species interactions on diversification.
+
+Helen Morlon - \textit{Ecology Letters} (2014) \textbf{17}: 508-525
+\end{quote}
 
 \end{frame}
 
@@ -112,7 +110,13 @@ And you don't always get something out of it.
 
 What if we could do without the wiring?
 
-{[}Two images: Serengeti and Weddell{]}
+\centering
+\begin{tabular}{cc}
+\includegraphics[width=0.4\linewidth]{images/psig.pdf} & \includegraphics[width=0.4 \linewidth]{images/sens.pdf}\\
+{\tiny Phylogenetic signal} & {\tiny Model sensitivity}
+\end{tabular}
+
+The stochastic backbones of Food Webs exhibit an Evolutionary signal.
 
 \end{frame}
 
@@ -168,10 +172,10 @@ SVD(Adjacency) gives $\mathbb{T}_{out}$ and $ \mathbb{T}_{in}$
 \begin{frame}{PCM crash course}
 
 \centering
-Observed traits vs. Expectation
+Expected vs.~Observed trait distribution
 
   \begin{equation*}
-    \textrm{vcv}\left( \hat{x} | \tau, \mbox{null model} \right) \mbox{ vs. } \textrm{vcv}\left(x\right)
+    \textrm{vcv}\left(  \mathbb{T} | \tau, \mbox{null model} \right) \mbox{ vs. } \textrm{vcv}\left( \mathbb{T}\right)
   \end{equation*}
 
 \end{frame}
@@ -185,9 +189,21 @@ Observed traits vs. Expectation
 \item
 But what null model?
 \item
-Brownian Motion
+Brownian Motion:
+
+\begin{equation*}
+\mathrm{d} \mathbb{T}(i,t) = \sigma \mathrm{d}B(t)
+\end{equation*}
+eventually $\sigma = \sigma(i,t)$, e.g., $\sigma(t) = \sigma_0 e^{rt}$.
+
 \item
-Ornstein-Uhlenbeck (BM + rubber band)
+Ornstein-Uhlenbeck (BM + rubber band):
+
+\begin{equation*}
+\mathrm{d} \mathbb{T}(i,t) = \alpha \left( \Theta -  \mathbb{T}(i,t) \right)\mathrm{d}t  + \sigma \mathrm{d}B(t)
+\end{equation*}
+eventually $\alpha = \alpha(i,t)$ and/or $\Theta = \Theta(i,t)$, ``branch colouring''.
+
 \end{itemize}
 
 \end{frame}
@@ -218,12 +234,20 @@ Ornstein-Uhlenbeck (BM + rubber band)
 
 \begin{itemize}[<+->]
 \item
-  Spoiler 1: Evolutionary distinctiveness vs. Web Centrality\\
+  Evolutionary distinctiveness vs. Web Centrality\\
   {\small Do evolutionary unique species play a keystone role in Food Webs?}
+  \vspace{3 mm}
+  
+\centering
+  \includegraphics[width=0.4\linewidth]{images/hyraxElephant.pdf}
+  
+  \vspace{3 mm}
+
 \item
-  Spoiler 2: An ecological informed model of species evolution maybe
+  An ecological informed model of species evolution maybe
   it's (almost) there.\\
-  {\small I am looking at you, Ornstein and Uhlenbecki $\dots$}
+  {\small I am looking at you, Ornstein and Uhlenbeck:\\
+  What if $\Theta = \Theta(i,T(t))$?}
 \end{itemize}
 
 \end{frame}
@@ -231,16 +255,17 @@ Ornstein-Uhlenbeck (BM + rubber band)
 \begin{frame}{Thanks!}
 
 \begin{centering}
-
+\small{
 Joint work with  
 Daniel B. Stouffer (University of Canterbury)
 
 Many thanks to  
-Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \& J. Tylianakis's labs; ...
+Mike Steel; Carey Priebe; A. Mooers', D.B. Stouffer's \& J. Tylianakis' labs; ...
 
-Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.
+Funds by the Allan Wilson Centre for Molecular Ecology and Evolution.}
 
-\vspace{2cm}
+\centering
+  \includegraphics[width=0.4\linewidth]{images/hyrax.jpg}
 
 \small{By the way, I'm looking for a postdoc.\\ gvd16@uclive.ac.nz - gvdr.github.io}
 

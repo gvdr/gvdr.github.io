@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.23)  11 JUN 2015 08:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.23)  11 JUN 2015 10:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,39 +934,31 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
 emecrane.sty
 Package: beamercolorthemecrane 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 37.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 37.
-
-(./slides.aux)
+) (./slides.aux)
 \openout1 = `slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 46.
- (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 44.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 46.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 44.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/lm/ot1lmss.fd
@@ -1036,7 +1028,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring OFF on input line 46.
+Package hyperref Info: Link coloring OFF on input line 44.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1046,56 +1038,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count169
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
 
 (./slides.out) (./slides.out)
 \@outlinefile=\write5
 \openout5 = `slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 46.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 44.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 46.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 44.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmr/m/n on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 46.
+(Font)                  OT1/cmss/m/n --> OT1/lmr/m/n on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 46.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 46.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 46.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 46.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 46.
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 46.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 46.
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 44.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 46.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 46.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 44.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 46.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 46.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmr/bx/n on input line 46.
+(Font)                  OT1/cmss/bx/n --> OT1/lmr/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 46.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 46.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 46.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 44.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 46.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 44.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1121,8 +1113,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 46.
-LaTeX Info: Redefining \microtypecontext on input line 46.
+LaTeX Info: Redefining \includegraphics on input line 44.
+LaTeX Info: Redefining \microtypecontext on input line 44.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1132,41 +1124,50 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (./slides.nav) <images/Serengeti_background.jpg, id=18, 1027.84pt x 770.88pt>
+ (./slides.nav) <images/hyraxchew.jpg, id=18, 1027.84pt x 687.56876pt>
+File: images/hyraxchew.jpg Graphic file (type jpg)
+
+<use images/hyraxchew.jpg>
+Package pdftex.def Info: images/hyraxchew.jpg used on input line 46.
+(pdftex.def)             Requested size: 122.91406pt x 82.22142pt.
+
+Overfull \vbox (7.93877pt too high) detected at line 46
+ []
+
+<images/Serengeti_background.jpg, id=19, 1027.84pt x 770.88pt>
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 48.
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 46.
 
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
-s/Serengeti_background.jpg>]
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 59.
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/lm/omllmm.fd
+s/Serengeti_background.jpg> <./images/hyraxchew.jpg>]
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 57.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 59.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 57.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 59.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 57.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 59.
+(Font)              <10.95> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 59.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 59.
-LaTeX Font Info:    Try loading font information for U+msa on input line 59.
+(Font)              <6> on input line 57.
+LaTeX Font Info:    Try loading font information for U+msa on input line 57.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
@@ -1174,7 +1175,7 @@ File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 (/usr/local/texlive/2012/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 59.
+LaTeX Font Info:    Try loading font information for U+msb on input line 57.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -1183,28 +1184,28 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 59.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 59.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 57.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 59.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 57.
 
-<images/small_phylo.pdf, id=55, 608.67403pt x 521.14702pt>
+<images/small_phylo.pdf, id=56, 608.67403pt x 521.14702pt>
 File: images/small_phylo.pdf Graphic file (type pdf)
 
 <use images/small_phylo.pdf>
-Package pdftex.def Info: images/small_phylo.pdf used on input line 59.
+Package pdftex.def Info: images/small_phylo.pdf used on input line 57.
 (pdftex.def)             Requested size: 122.91406pt x 105.23746pt.
 
-<images/small_fw.pdf, id=56, 608.67403pt x 521.14702pt>
+<images/small_fw.pdf, id=57, 608.67403pt x 521.14702pt>
 File: images/small_fw.pdf Graphic file (type pdf)
 
 <use images/small_fw.pdf>
-Package pdftex.def Info: images/small_fw.pdf used on input line 59.
+Package pdftex.def Info: images/small_fw.pdf used on input line 57.
 (pdftex.def)             Requested size: 122.91406pt x 105.23746pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 59.
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 57.
 
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [2
@@ -1219,75 +1220,82 @@ single page
 pdfTeX warning: /usr/local/texlive/2012/bin/x86_64-linux/pdflatex (file ./image
 s/small_fw.pdf): PDF inclusion: multiple pdfs with page group included in a sin
 gle page
->] <images/hutchinson_ecotheatreevoplay.jpg, id=88, 224.84pt x 347.2975pt>
+>] <images/hutchinson_ecotheatreevoplay.jpg, id=89, 224.84pt x 347.2975pt>
 File: images/hutchinson_ecotheatreevoplay.jpg Graphic file (type jpg)
 
 <use images/hutchinson_ecotheatreevoplay.jpg>
 Package pdftex.def Info: images/hutchinson_ecotheatreevoplay.jpg used on input 
-line 70.
+line 68.
 (pdftex.def)             Requested size: 83.41249pt x 128.84009pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 70.
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 68.
 
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [3
 
  <./images/hutchinson_ecotheatreevoplay.jpg>]
-File: images/hutchinson_ecotheatreevoplay.jpg Graphic file (type jpg)
- <use images/hutchinson_ecotheatreevoplay.jpg>
-Package pdftex.def Info: images/hutchinson_ecotheatreevoplay.jpg used on input 
-line 81.
-(pdftex.def)             Requested size: 83.41249pt x 128.84009pt.
-File: images/Serengeti_background.jpg Graphic file (type jpg)
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 79.
 
-<use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 81.
+File: images/Serengeti_background.jpg Graphic file (type jpg)
+ <use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 79.
 
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [4
 
 ]
-<images/finewirings.jpg, id=142, 1606.0pt x 1204.5pt>
+<images/finewirings.jpg, id=145, 1606.0pt x 1204.5pt>
 File: images/finewirings.jpg Graphic file (type jpg)
 
 <use images/finewirings.jpg>
-Package pdftex.def Info: images/finewirings.jpg used on input line 94.
+Package pdftex.def Info: images/finewirings.jpg used on input line 92.
 (pdftex.def)             Requested size: 171.78394pt x 128.84009pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 94.
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 92.
 
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [5
 
- <./images/finewirings.jpg>] <images/rohr.jpg, id=169, 1917.1625pt x 1975.38pt>
+ <./images/finewirings.jpg>] <images/rohr.jpg, id=172, 1917.1625pt x 1975.38pt>
 File: images/rohr.jpg Graphic file (type jpg)
 
 <use images/rohr.jpg>
-Package pdftex.def Info: images/rohr.jpg used on input line 108.
+Package pdftex.def Info: images/rohr.jpg used on input line 106.
 (pdftex.def)             Requested size: 175.05298pt x 180.37534pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 108
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 106
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [6
 
- <./images/rohr.jpg>]
+ <./images/rohr.jpg>] <images/psig.pdf, id=199, 361.35pt x 361.35pt>
+File: images/psig.pdf Graphic file (type pdf)
+ <use images/psig.pdf>
+Package pdftex.def Info: images/psig.pdf used on input line 121.
+(pdftex.def)             Requested size: 122.91406pt x 122.9125pt.
+
+<images/sens.pdf, id=200, 578.16pt x 578.16pt>
+File: images/sens.pdf Graphic file (type pdf)
+ <use images/sens.pdf>
+Package pdftex.def Info: images/sens.pdf used on input line 121.
+(pdftex.def)             Requested size: 122.91406pt x 122.9081pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
- <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 117
+
+<use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 121
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [7
 
-]
+ <./images/psig.pdf> <./images/sens.pdf>]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
-
-<use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 134
+ <use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 138
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [8
@@ -1296,7 +1304,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 134
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 134
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 138
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [9
@@ -1305,65 +1313,65 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 134
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 134
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 138
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [10
 
 ]
-<images/RDPGmodel.pdf, id=310, 370.18298pt x 350.91101pt>
+<images/RDPGmodel.pdf, id=328, 370.18298pt x 350.91101pt>
 File: images/RDPGmodel.pdf Graphic file (type pdf)
 
 <use images/RDPGmodel.pdf>
-Package pdftex.def Info: images/RDPGmodel.pdf used on input line 145.
+Package pdftex.def Info: images/RDPGmodel.pdf used on input line 149.
 (pdftex.def)             Requested size: 184.3758pt x 174.7804pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 145
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 149
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [11
 
  <./images/RDPGmodel.pdf>]
-<images/Serengeti_scatter_8.pdf, id=352, 812.63597pt x 858.40701pt>
+<images/Serengeti_scatter_8.pdf, id=371, 812.63597pt x 858.40701pt>
 File: images/Serengeti_scatter_8.pdf Graphic file (type pdf)
 
 <use images/Serengeti_scatter_8.pdf>
-Package pdftex.def Info: images/Serengeti_scatter_8.pdf used on input line 155.
+Package pdftex.def Info: images/Serengeti_scatter_8.pdf used on input line 159.
 
 (pdftex.def)             Requested size: 184.3758pt x 194.75742pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 155
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 159
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
 [12
 
  <./images/Serengeti_scatter_8.pdf>]
-<images/Serengeti_svds.pdf, id=710, 433.62pt x 433.62pt>
+<images/Serengeti_svds.pdf, id=728, 433.62pt x 433.62pt>
 File: images/Serengeti_svds.pdf Graphic file (type pdf)
 
 <use images/Serengeti_svds.pdf>
-Package pdftex.def Info: images/Serengeti_svds.pdf used on input line 166.
+Package pdftex.def Info: images/Serengeti_svds.pdf used on input line 170.
 (pdftex.def)             Requested size: 122.91406pt x 122.9081pt.
 
-<images/Serengeti_Traits.pdf, id=711, 844.75598pt x 593.417pt>
+<images/Serengeti_Traits.pdf, id=729, 844.75598pt x 593.417pt>
 File: images/Serengeti_Traits.pdf Graphic file (type pdf)
 
 <use images/Serengeti_Traits.pdf>
-Package pdftex.def Info: images/Serengeti_Traits.pdf used on input line 166.
+Package pdftex.def Info: images/Serengeti_Traits.pdf used on input line 170.
 (pdftex.def)             Requested size: 184.3758pt x 129.51083pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 166
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 170
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
 [13
 
  <./images/Serengeti_svds.pdf> <./images/Serengeti_Traits.pdf>]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 177.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 181.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -1376,7 +1384,7 @@ File: mt-cmr.cfg 2009/11/09 v2.0 microtype config. file: Computer Modern Roman
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 177
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 181
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [14
@@ -1385,7 +1393,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 177
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 193
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [15
@@ -1394,7 +1402,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 193
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 193
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [16
@@ -1403,21 +1411,21 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 193
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 193
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [17
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 215.
+(Font)              <5> on input line 231.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 215.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 231.
 
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [18
@@ -1426,7 +1434,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [19
@@ -1435,7 +1443,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [20
@@ -1444,7 +1452,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [21
@@ -1453,49 +1461,63 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 215
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [22
 
 ]
+<images/hyraxElephant.pdf, id=1043, 431.211pt x 332.44202pt>
+File: images/hyraxElephant.pdf Graphic file (type pdf)
+
+<use images/hyraxElephant.pdf>
+Package pdftex.def Info: images/hyraxElephant.pdf used on input line 253.
+(pdftex.def)             Requested size: 114.15417pt x 88.0054pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 229.
+(Font)              <10> on input line 253.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 229.
+(Font)              <7> on input line 253.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 229.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 253.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 229.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 253.
 
 File: images/Serengeti_background.jpg Graphic file (type jpg)
-
-<use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 229
+ <use images/Serengeti_background.jpg>
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 253
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [23
 
-]
+ <./images/hyraxElephant.pdf>]
+File: images/hyraxElephant.pdf Graphic file (type pdf)
+ <use images/hyraxElephant.pdf>
+Package pdftex.def Info: images/hyraxElephant.pdf used on input line 253.
+(pdftex.def)             Requested size: 114.15417pt x 88.0054pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 229
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 253
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [24
 
 ]
+<images/hyrax.jpg, id=1097, 1662.21pt x 1108.14pt>
+File: images/hyrax.jpg Graphic file (type jpg)
+ <use images/hyrax.jpg>
+Package pdftex.def Info: images/hyrax.jpg used on input line 274.
+(pdftex.def)             Requested size: 122.91406pt x 81.9402pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 249
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 274
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [25
 
-]
+ <./images/hyrax.jpg>]
 \tf@nav=\write6
 \openout6 = `slides.nav'.
 
@@ -1505,23 +1527,23 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 249
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
  (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
  ) 
 Here is how much of TeX's memory you used:
- 19928 strings out of 493488
- 380546 string characters out of 3141347
- 469415 words of memory out of 3000000
- 22656 multiletter control sequences out of 15000+200000
- 60632 words of font info for 73 fonts, out of 3000000 for 9000
+ 19987 strings out of 493488
+ 381695 string characters out of 3141347
+ 469579 words of memory out of 3000000
+ 22701 multiletter control sequences out of 15000+200000
+ 72456 words of font info for 80 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,16n,59p,423b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,16n,59p,458b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
 cal/texlive/2012/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texliv
 e/2012/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/texlive/2012/texmf-d
@@ -1532,16 +1554,17 @@ e1/public/lm/lmmi6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/l
 m/lmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmss10.pf
 b></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2012/tex
-mf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2012/texmf-dist/fo
-nts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/
-public/lm/lmsy6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsf
-onts/symbols/msam10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/
-amsfonts/symbols/msbm10.pfb>
-Output written on slides.pdf (25 pages, 2349428 bytes).
+/2012/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2012/te
+xmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2012/texmf-dist/
+fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type
+1/public/lm/lmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/l
+m/lmsy6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/sym
+bols/msam10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb>
+Output written on slides.pdf (25 pages, 2957996 bytes).
 PDF statistics:
- 1164 PDF objects out of 1200 (max. 8388607)
- 942 compressed objects within 10 object streams
+ 1189 PDF objects out of 1200 (max. 8388607)
+ 958 compressed objects within 10 object streams
  51 named destinations out of 1000 (max. 500000)
- 19585 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 23194 words of extra memory for PDF output out of 24883 (max. 10000000)
 
