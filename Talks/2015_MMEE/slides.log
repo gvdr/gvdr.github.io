@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.23)  9 JUL 2015 03:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.23)  9 JUL 2015 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1234,72 +1234,72 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 72.
  [3
 
  <./images/hutchinson_ecotheatreevoplay.jpg>]
-LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 83.
+LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 84.
 
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 83.
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 84.
 
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [4
 
 ]
-<images/finewirings.jpg, id=145, 1606.0pt x 1204.5pt>
+<images/finewirings.jpg, id=146, 1606.0pt x 1204.5pt>
 File: images/finewirings.jpg Graphic file (type jpg)
 
 <use images/finewirings.jpg>
-Package pdftex.def Info: images/finewirings.jpg used on input line 96.
+Package pdftex.def Info: images/finewirings.jpg used on input line 97.
 (pdftex.def)             Requested size: 171.78394pt x 128.84009pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 96.
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 97.
 
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [5
 
- <./images/finewirings.jpg>] <images/rohr.jpg, id=172, 1917.1625pt x 1975.38pt>
+ <./images/finewirings.jpg>] <images/rohr.jpg, id=173, 1917.1625pt x 1975.38pt>
 File: images/rohr.jpg Graphic file (type jpg)
 
 <use images/rohr.jpg>
-Package pdftex.def Info: images/rohr.jpg used on input line 110.
+Package pdftex.def Info: images/rohr.jpg used on input line 111.
 (pdftex.def)             Requested size: 175.05298pt x 180.37534pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 110
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 111
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [6
 
- <./images/rohr.jpg>] <images/psig.pdf, id=199, 361.35pt x 335.2525pt>
+ <./images/rohr.jpg>] <images/psig.pdf, id=200, 361.35pt x 335.2525pt>
 File: images/psig.pdf Graphic file (type pdf)
  <use images/psig.pdf>
-Package pdftex.def Info: images/psig.pdf used on input line 124.
+Package pdftex.def Info: images/psig.pdf used on input line 125.
 (pdftex.def)             Requested size: 144.4266pt x 133.9963pt.
 
-<images/sens.pdf, id=200, 544.0325pt x 500.87125pt>
+<images/sens.pdf, id=201, 544.0325pt x 500.87125pt>
 File: images/sens.pdf Graphic file (type pdf)
  <use images/sens.pdf>
-Package pdftex.def Info: images/sens.pdf used on input line 124.
+Package pdftex.def Info: images/sens.pdf used on input line 125.
 (pdftex.def)             Requested size: 144.4266pt x 132.96716pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 124.
+(Font)              <9> on input line 125.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 124.
+(Font)              <5> on input line 125.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 125.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 125.
 
 
-Overfull \hbox (10.10085pt too wide) in paragraph at lines 124--124
+Overfull \hbox (10.10085pt too wide) in paragraph at lines 125--125
  [][][] 
  []
 
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 124
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 125
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [7
@@ -1311,7 +1311,7 @@ pdfTeX warning: pdflatex (file ./images/sens.pdf): PDF inclusion: multiple pdfs
 >]
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 141
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 142
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [8
@@ -1320,7 +1320,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 141
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 141
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 142
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [9
@@ -1329,7 +1329,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 141
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 141
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 142
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [10
@@ -1339,11 +1339,11 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 141
 File: images/RDPGmodel.pdf Graphic file (type pdf)
 
 <use images/RDPGmodel.pdf>
-Package pdftex.def Info: images/RDPGmodel.pdf used on input line 149.
+Package pdftex.def Info: images/RDPGmodel.pdf used on input line 150.
 (pdftex.def)             Requested size: 276.559pt x 139.49583pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 149
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 150
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [11
@@ -1353,12 +1353,12 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 149
 File: images/Serengeti_scatter_8.pdf Graphic file (type pdf)
 
 <use images/Serengeti_scatter_8.pdf>
-Package pdftex.def Info: images/Serengeti_scatter_8.pdf used on input line 159.
+Package pdftex.def Info: images/Serengeti_scatter_8.pdf used on input line 160.
 
 (pdftex.def)             Requested size: 184.3758pt x 194.75742pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 159
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 160
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
@@ -1369,25 +1369,25 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 159
 File: images/Serengeti_svds.pdf Graphic file (type pdf)
 
 <use images/Serengeti_svds.pdf>
-Package pdftex.def Info: images/Serengeti_svds.pdf used on input line 170.
+Package pdftex.def Info: images/Serengeti_svds.pdf used on input line 171.
 (pdftex.def)             Requested size: 122.91406pt x 122.9081pt.
 
 <images/Serengeti_Traits.pdf, id=732, 674.52pt x 593.21625pt>
 File: images/Serengeti_Traits.pdf Graphic file (type pdf)
 
 <use images/Serengeti_Traits.pdf>
-Package pdftex.def Info: images/Serengeti_Traits.pdf used on input line 170.
+Package pdftex.def Info: images/Serengeti_Traits.pdf used on input line 171.
 (pdftex.def)             Requested size: 184.3758pt x 162.1438pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 170
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 171
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
 
 [13
 
  <./images/Serengeti_svds.pdf> <./images/Serengeti_Traits.pdf>]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 181.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 182.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -1400,7 +1400,7 @@ File: mt-cmr.cfg 2009/11/09 v2.0 microtype config. file: Computer Modern Roman
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 181
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 182
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [14
@@ -1409,7 +1409,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 181
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 210
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [15
@@ -1418,7 +1418,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 210
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [16
@@ -1427,7 +1427,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 210
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [17
@@ -1436,7 +1436,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 209
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 232
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [18
@@ -1445,7 +1445,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 232
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [19
@@ -1454,7 +1454,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 232
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [20
@@ -1463,7 +1463,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 232
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [21
@@ -1472,7 +1472,7 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 232
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [22
@@ -1482,21 +1482,21 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 231
 File: images/hyraxElephant.pdf Graphic file (type pdf)
 
 <use images/hyraxElephant.pdf>
-Package pdftex.def Info: images/hyraxElephant.pdf used on input line 253.
+Package pdftex.def Info: images/hyraxElephant.pdf used on input line 254.
 (pdftex.def)             Requested size: 114.15417pt x 88.0054pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 253.
+(Font)              <10> on input line 254.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 253.
+(Font)              <7> on input line 254.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 253.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 254.
 
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 253.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 254.
 
 File: images/Serengeti_background.jpg Graphic file (type jpg)
  <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 253
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 254
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [23
@@ -1504,12 +1504,12 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 253
  <./images/hyraxElephant.pdf>]
 File: images/hyraxElephant.pdf Graphic file (type pdf)
  <use images/hyraxElephant.pdf>
-Package pdftex.def Info: images/hyraxElephant.pdf used on input line 253.
+Package pdftex.def Info: images/hyraxElephant.pdf used on input line 254.
 (pdftex.def)             Requested size: 114.15417pt x 88.0054pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 253
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 254
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [24
@@ -1518,12 +1518,12 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 253
 <images/hyrax.jpg, id=1068, 1662.21pt x 1108.14pt>
 File: images/hyrax.jpg Graphic file (type jpg)
  <use images/hyrax.jpg>
-Package pdftex.def Info: images/hyrax.jpg used on input line 274.
+Package pdftex.def Info: images/hyrax.jpg used on input line 275.
 (pdftex.def)             Requested size: 122.91406pt x 81.9402pt.
 File: images/Serengeti_background.jpg Graphic file (type jpg)
 
 <use images/Serengeti_background.jpg>
-Package pdftex.def Info: images/Serengeti_background.jpg used on input line 274
+Package pdftex.def Info: images/Serengeti_background.jpg used on input line 275
 .
 (pdftex.def)             Requested size: 364.20352pt x 273.14088pt.
  [25
@@ -1538,20 +1538,20 @@ Package pdftex.def Info: images/Serengeti_background.jpg used on input line 274
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 277.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 277.
  (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
  ) 
 Here is how much of TeX's memory you used:
- 20041 strings out of 493488
- 382709 string characters out of 3141347
- 469698 words of memory out of 3000000
- 22740 multiletter control sequences out of 15000+200000
+ 20043 strings out of 493488
+ 382713 string characters out of 3141347
+ 469701 words of memory out of 3000000
+ 22742 multiletter control sequences out of 15000+200000
  79913 words of font info for 92 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,16n,59p,458b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1574,7 +1574,7 @@ nts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1
 .pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
 bm10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pf
 b>
-Output written on slides.pdf (25 pages, 2984460 bytes).
+Output written on slides.pdf (25 pages, 2988913 bytes).
 PDF statistics:
  1164 PDF objects out of 1200 (max. 8388607)
  941 compressed objects within 10 object streams
