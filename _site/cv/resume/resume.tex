@@ -1,0 +1,298 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=CC0000]
+\definecolor[rulecolor][h=CC0000]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[giulio-valentino-dalla-riva]{Giulio Valentino Dalla Riva}
+
+\thinrule
+
+\startblockquote
+Biomathematician; mountain lover, metal head, with a taste for
+complexity.\crlf
+I'm fascinated by the interaction between evolution and ecology.\crlf
+\useURL[url1][mailto:gvd16@uclive.ac.nz][][\hyphenatedurl{gvd16@uclive.ac.nz}]\from[url1]\crlf
+----
+\stopblockquote
+
+\subsection[education]{Education}
+
+\startdescription{2013-2015}
+  {\bf PhD, Biomathematics}; University of Canterbury (Christchurch,
+  NZ)\crlf
+   Planned submission: December 2015.\crlf
+   Thesis title: {\em The Evolving Web of Life: exploring the interplay
+  of ecological and evolutionary processes}\crlf
+   Supervisors: {\em Mike Steel}, {\em Daniel B. Stouffer} and
+  {\em Charles Semple}\crlf
+   Grant: Allan Wilson Centre for Molecular Ecology and Evolution
+\stopdescription
+
+\startdescription{2010-2012}
+  {\bf Laurea specialistica (MSc.), Mathematics}; Università di Trento
+  (Trento, IT);\crlf
+  Thesis title: {\em Information Spreading in Complex Networks}; Magna
+  cum Laude
+\stopdescription
+
+\startdescription{2008-2009}
+  {\bf Erasmus Program, Mathematics}; Université Pierre et Marie Curie
+  (Paris VI, FR)
+\stopdescription
+
+\startdescription{2004-2009}
+  {\bf Laurea (BSc.), Mathematics}; Università di Trento (Trento, IT)
+  \crlf
+  Grant: INdAM (Italian National Institute for Advanced Mathematics)
+\stopdescription
+
+\subsection[research-interests]{Research Interests:}
+
+\startdescription{{\em EcoEvo}}
+  {\bf Food webs}; Food webs assembly and dynamics; their response to
+  anthropic pressure; the role of species interactions in ecosystems and
+  their drivers.
+
+  {\bf Phylogenetics}; Evolutionary models and their possible extension
+  to handle the effects of species interaction: ecology-aware
+  phylogenetics analysis.
+
+  {\bf Network evolution} The origin, evolution and dismantling of
+  ecological networks; the effect of speciation/extinction events on
+  ecosystems.
+\stopdescription
+
+\startdescription{{\em Networks}}
+  {\bf Local/Global properties}; The connection between local and global
+  network properties, such as centralities, motifs, dynamical stability.
+\stopdescription
+
+\startdescription{{\em Maths}}
+  Phylogenetic Comparative Methods; Dynamical processes on and of
+  Complex Networks; Networks statistical modelling and analysis; Random
+  Matrices.
+\stopdescription
+
+\subsection[skills]{Skills}
+
+\startdescription{Maths and Stats}
+  Modelling and investigation of {\bf random networks} models;\crlf
+   Nonlinear {\bf Dynamical Systems};\crlf
+   {\bf Data Analysis} for biology;\crlf
+   Evolutionary {\bf Game Theory};\crlf
+   {\bf Probability}; Stochastic {\bf Differential Equations}.
+\stopdescription
+
+\startdescription{Programming}
+  {\bf Julia}, {\bf Python}, {\bf R}: Major research activity, advanced
+  skills.\crlf
+   {\bf C}, {\bf C++}, {\bf Java}, {\bf Fortran}, {\bf Pascal}: Minor
+  research or study experience, basic skills.\crlf
+   {\bf Matlab}: Three years as tutor for a course in mathematical
+  modelling.\crlf
+   {\bf HTML}, {\bf CSS}, {\bf LaTeX}, {\bf markdown}, etc. .
+\stopdescription
+
+\startdescription{Outreach}
+  5+ years working experience as science communicator, journalist, and
+  event organizer; two years as marketing and project manager.
+\stopdescription
+
+\startdescription{Languages}
+  Italian, native; English, full working proficiency; French, working
+  proficiency.
+\stopdescription
+
+\startdescription{Teaching}
+  Tutor and teaching assistant for the undergraduate courses in
+  {\em Engineering Mathematics}, {\em Mathematical Modelling and
+  Computation}, {\em Regression Modelling} (UC, 3 years). Mentor for
+  first year students (Dept. of Mathematics, UniTrento, 2 years).
+\stopdescription
+
+\subsection[publications]{Publications}
+
+\startitemize
+\item
+  Published:
+  \startitemize
+  \item
+    (2015, accepted) - {\bf gvdr}, Daniel B. Stouffer, {\em Exploring
+    the evolutionary signature of food webs' backbones using functional
+    traits} - Oikos.
+  \stopitemize
+\item
+  In Preparation/Submitted:
+  \startitemize
+  \item
+    (2015, expected) - {\bf gvdr}, Arne Mooers, Mike Steel,
+    {\em Assessing network connectivity through random walks} - target
+    journal: Journal of Complex Networks
+  \item
+    (2015, expected) - {\bf gvdr}, {\em Evolutionary distinctiviness and
+    network stress centrality} - target journal: Evolution
+  \item
+    (working) - Alyssa R. Cirtwill, Nick J. Baker, {\bf gvdr}, Josh
+    Thia, Christie Webber, Daniel B. Stouffer, {\em Phylogenetic
+    conservation of species roles in bipartite ecological networks: the
+    case of mutualistic and antagonistic food webs}
+  \stopitemize
+\stopitemize
+
+\subsection[selected-presentations]{Selected Presentations}
+
+\startitemize
+\item
+  2015
+  \startitemize
+  \item
+    {\em The (evolving) web of life} \crlf
+    New Zealand Phylogenomics Meeting (Portobello, NZ).
+  \stopitemize
+\item
+  2014
+  \startitemize
+  \item
+    {\em The Web and the Tree} \crlf
+    Greifswald Phylogenetics Meeting (Greifswald, DE).
+  \item
+    {\em Some ideas for including ecology in phylogenetic comparative
+    methods} \crlf
+    Theoretical Biology group, ETH Zürich (Zürich, CH).
+  \item
+    {\em The Web Traits and the Tree}\crlf
+    Mathematical and Computational Evolutionary Biology (Hameau de
+    l'Etoile, FR).
+  \item
+    {\em The Web Traits and the Tree}\crlf
+    New Zealand Phylogenomics Meeting (Waiheke, NZ).
+  \item
+    {\em To Build a Web You Need a Tree, and Vice Versa}\crlf
+    Primer series, University of Canterbury (Christchurch, NZ).
+  \stopitemize
+\item
+  2012
+  \startitemize
+  \item
+    {\em Infograph: toward the modelling of communication dependent
+    ecological networks}\crlf
+    Intl. Workshop on Network Models in Statistics, Economics and Social
+    Sciences (Trento, IT).
+  \stopitemize
+\stopitemize
+
+\subsection[references]{References}
+
+\startdescription{Mike Steel (supervisor)}
+  Professor of Mathematics and Statistics\crlf
+   Director for Biomathematics Research Centre\crlf
+   Department of Mathematics and Statistics\crlf
+   University of Canterbury\crlf
+   Christchurch, NZ\crlf
+   Phone: +64-3-364-2987 ext 7688\crlf
+   Email:
+  \useURL[url2][mike.steel@canterbury.ac.nz][][mike.steel@canterbury.ac.nz]\from[url2]\crlf
+\stopdescription
+
+\startdescription{Daniel Stouffer (supervisor)}
+  Senior Lecturer, Complex Systems Ecology\crlf
+   Rutherford Discovery Fellow\crlf
+   School of Biological Sciences\crlf
+   University of Canterbury\crlf
+   Christchurch, NZ\crlf
+   Phone: +64-3-364-2729 ext 6729\crlf
+   Email:
+  \useURL[url3][daniel.stouffer@canterbury.ac.nz][][daniel.stouffer@canterbury.ac.nz]\from[url3]\crlf
+\stopdescription
+
+\startdescription{Jason Tylianakis}
+  Professor in Terrestrial ecology\crlf
+   School of Biological Sciences\crlf
+   University of Canterbury\crlf
+   Christchurch, NZ\crlf
+   and\crlf
+   Chair in Ecology and Biodiversity\crlf
+   Department of Life Sciences\crlf
+   Imperial College London\crlf
+   Ascot, Berkshire, UK\crlf
+   Phone: International +64-364-2735 ext. 6735\crlf
+   email:
+  \useURL[url4][jason.tylianakis@canterbury.ac.nz][][jason.tylianakis@canterbury.ac.nz]\from[url4]\crlf
+   (Tylianakis's group meets jointly with Daniel Stouffer's lab group)
+\stopdescription
+
+\thinrule
+
+\startblockquote
+\useURL[url5][mailto:gvd16@uclive.ac.nz][][\hyphenatedurl{gvd16@uclive.ac.nz}]\from[url5]
+• +64-3-364-2987 ext 4869 \crlf
+Biomathematics Research Centre\crlf
+University of Canterbury\crlf
+Christchurch, New Zealand
+\stopblockquote
+
+\stoptext

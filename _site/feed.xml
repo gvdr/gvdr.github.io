@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gvdr</title>
+    <atom:link href="http://gvdr.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://gvdr.github.io/</link>
+    <description>The web nest of Giulio Valentino Dalla Riva</description>
+    <pubDate>Tue, 29 Sep 2015 11:27:27 +1300</pubDate>
+    
+      <item>
+        <title>Quanto &lt;i&gt;Amborella&lt;/i&gt; sono le piante?</title>
+        <link>http://gvdr.github.io/blog/Amborella_debate</link>
+        <guid isPermaLink="true">http://gvdr.github.io/blog/Amborella_debate</guid>
+        <description>&lt;p&gt;Darwin lo aveva definito un abominabile mistero: da dove arrivano le piante da fiore? A cosa assomiglia la loro &lt;em&gt;mamma&lt;/em&gt;? Quanti sessi contava? Quanto è vecchia? Abominabile, credo, perché non son domande che si fanno ad una signora…&lt;/p&gt;
+
+&lt;p&gt;Per risolvere la questione è utile individuare la radice dell’albero evolutivo delle Magnoliofite (o Angiosperme, per chi preferisce la nomenclatura di Lindl a quella di Cronquist, Takhttajan &amp;amp; Max Zimmermann).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/Amborella.jpg&quot; style=&quot;float: right&quot; width=&quot;50%&quot; title=&quot;Amborella trichopodia - by Wertheim Conservatory, Florida International University, Miami, Florida, USA.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alla fine dello scorso millenio, una serie di analisi basate su un pugno di geni (Parkinson, Adams e Palmer 1999; Qiu et al. 1999; Soltis, Soltis e Chase 1999) assegna ad &lt;em&gt;Amborella trichopoda&lt;/em&gt; l’eredita’ di un ramo evolutivo isolato da tutte le altre Angiosperme. &lt;em&gt;Amborella&lt;/em&gt; è dunque una specie basale: “the most recent common ancestor” (l’antenato comune piu’ recente) di &lt;em&gt;Amborella&lt;/em&gt; e una qualsiasi altra pianta da fiore sarebbe la mamma di tutte le Angiosperme. Poco dopo altri studi (Barkman et al. 2000; Graham and Olmstead 2000) mostrano che per individuare quella radice con precisione occorre tener conto che alcuni loci genetici sono evoluti molto più rapidamente di altri. La matematica diventa complessa, i modelli alternativi si moltiplicano.&lt;/p&gt;
+
+&lt;p&gt;Protagonisti del dibattito, da più di dieci anni, sono Vadim Goremykin [2] da una parte e Douglas e Pamela Soltis [3] dall’altra. I “tedeschi” (Goremykin e compagni) e gli “yankee” (Soltis &amp;amp; Soltis e compagni) se le danno di santa ragione. Complice, mi raccontano voci di corridoio, l’inglese imperfetto di Goremykin. Il titolo orignale “&lt;em&gt;Amborella&lt;/em&gt; Is Not a Basal Angiosperm” sarebbe stato meglio reso con “&lt;em&gt;Amborella&lt;/em&gt; Is Not the Basal Angiosperm”. Infatti, nelle analisi del gruppo di ricerca tedesco, un’altra manciata di piante contendono ad Amborella il primato.&lt;/p&gt;
+
+&lt;p&gt;L’avvento della genomica non risolve la diatriba. Nel mentre la genetica delle piante è entrata nella “big science”. Attorno ad &lt;em&gt;Amborella&lt;/em&gt; si costituisce un consorzio ben finanziato e ben piazzato. Goremykin si trasferisce in Italia, alla Fondazione Edmund Mach di San Michele all’Adige, e non demorde. Nel 2013 pubblica in Systematic Biology una rigorosa analisi filogenetica [4] che piazza una clade formata da &lt;em&gt;Trithuria&lt;/em&gt;, una Nifeacee, e Amborella da una parte e tutte le piante fiorite dall’altra. Il consorzio di Soltis - Soltis et al. risponde [5] e la discussione non si placa [6], complice la povera storia famigliare di Amborella che conta pochissimi parenti ancora in vita.&lt;/p&gt;
+
+&lt;p&gt;Forse è presto per stabilire chi ha ragione e chi ha torto. La discussione si è comunque rivelata fruttuosa, e ha permesso di affrontare alcuni spinosi nodi metodologici. Io faccio il tifo per le Ninfee, piante acquatiche, con grandi fiori colorati. Altro che la modesta Amborella.&lt;/p&gt;
+
+&lt;p&gt;[1] Endress, Peter K. “&lt;a href=&quot;http://www.jstor.org/stable/10.1086/321919&quot;&gt;The flowers in extant basal angiosperms and inferences on ancestral flowers.&lt;/a&gt;” International Journal of Plant Sciences 162, no. 5 (2001): 1111-1140.&lt;/p&gt;
+
+&lt;p&gt;[2] Goremykin, Vadim V., Karen I. Hirsch-Ernst, Stefan Wölfl, and Frank H. Hellwig. “&lt;a href=&quot;http://mbe.oxfordjournals.org/content/20/9/1499.abstract&quot;&gt;Analysis of the Amborella trichopoda chloroplast genome sequence suggests that Amborella is not a basal angiosperm.&lt;/a&gt;” Molecular biology and evolution 20, no. 9 (2003): 1499-1505.&lt;/p&gt;
+
+&lt;p&gt;[3] Soltis, Douglas E., and Pamela S. Soltis. “&lt;a href=&quot;http://www.amjbot.org/content/91/6/997.abstract&quot;&gt;Amborella not a “basal angiosperm”? Not so fast.&lt;/a&gt;” American Journal of Botany 91, no. 6 (2004): 997-1001.&lt;/p&gt;
+
+&lt;p&gt;[4] Goremykin, Vadim V., Svetlana V. Nikiforova, Patrick J. Biggs, Bojian Zhong, Peter Delange, William Martin, Stefan Woetzel, Robin A. Atherton, Patricia A. Mclenachan, and Peter J. Lockhart. “&lt;a href=&quot;http://sysbio.oxfordjournals.org/content/62/1/50&quot;&gt;The evolutionary root of flowering plants.&lt;/a&gt;” Systematic biology 62, no. 1 (2013): 50-61.&lt;/p&gt;
+
+&lt;p&gt;[5] Drew, Bryan T., Brad R. Ruhfel, Stephen A. Smith, Michael J. Moore, Barbara G. Briggs, Matthew A. Gitzendanner, Pamela S. Soltis, and Douglas E. Soltis. “&lt;a href=&quot;http://sysbio.oxfordjournals.org/content/63/3/368&quot;&gt;Another look at the root of the angiosperms reveals a familiar tale.&lt;/a&gt;” Systematic biology (2014): syt108.&lt;/p&gt;
+
+&lt;p&gt;[6] Xi, Zhenxiang, Liang Liu, Joshua S. Rest, and Charles C. Davis. “&lt;a href=&quot;http://sysbio.oxfordjournals.org/content/63/6/919.abstract&quot;&gt;Coalescent versus concatenation methods and the placement of Amborella as sister to water lilies.&lt;/a&gt;” Systematic biology 63, no. 6 (2014): 919-932.&lt;/p&gt;
+
+&lt;p&gt;Wickett, Norman J., Siavash Mirarab, Nam Nguyen, Tandy Warnow, Eric Carpenter, Naim Matasci, Saravanaraj Ayyampalayam et al. “&lt;a href=&quot;http://www.pnas.org/content/111/45/E4859.full&quot;&gt;Phylotranscriptomic analysis of the origin and early diversification of land plants.&lt;/a&gt;” Proceedings of the National Academy of Sciences 111, no. 45 (2014): E4859-E4868.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Mar 2015 10:26:00 +1300</pubDate>
+      </item>
+    
+  </channel>
+</rss>
