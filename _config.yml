@@ -16,11 +16,10 @@ theme:
   #I'm a biomathematician PhD student exploring the evolving web of life.
   # Header and footer text
   header_text: >
-     <p>Hello world!</p>
-     <p>As you may have noticed, this website is still work in progress. </p>
-     <p>You can already read some info about <a href="http://gvdr.github.io/about/">me</a>. </p>
+     <p>This is Giulio Valentino Dalla Riva small place in the web.</p>
+     <p>If you are curious about who I am, you can find some info about <a href="http://gvdr.github.io/about/">me</a> here. </p>
      <p>I will be posting here updates about my <a href="http://gvdr.github.io/science/">research</a>. </p>
-     <p>Now and then I am tempted to share my <a href="http://gvdr.github.io/blog/">thoughts</a> about science, politics, music, the universe and everything else. But I will mainly write about mathematics, evolution and ecology. Ant that's probably enough! </p>
+     <p>Now and then I will be tempted to share my <a href="http://gvdr.github.io/blog/">thoughts</a> about science, politics, music, the universe and everything else. But I will mainly write about mathematics, evolution and ecology. That's already quite a lot, to have an opinion on! </p>
 
   footer_text: >
    This goofy website has been created using <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> on a Linux machine.
