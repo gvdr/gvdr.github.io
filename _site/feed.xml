@@ -5,7 +5,60 @@
     <atom:link href="http://gvdr.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://gvdr.github.io/</link>
     <description>The web nest of Giulio Valentino Dalla Riva</description>
-    <pubDate>Tue, 29 Sep 2015 11:41:27 +1300</pubDate>
+    <pubDate>Tue, 29 Sep 2015 15:47:36 +1300</pubDate>
+    
+      <item>
+        <title>Random Dot Product Graphs for Food Webs</title>
+        <link>http://gvdr.github.io/science/Rdpg</link>
+        <guid isPermaLink="true">http://gvdr.github.io/science/Rdpg</guid>
+        <description>&lt;p&gt;Mine and Daniel Stouffer’s paper on how to assess the evolutionary signal of food
+webs is out on Oikos as an Early View.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/RDPGmodel.png&quot; style=&quot;float: left&quot; width=&quot;70%&quot; title=&quot;A simple model of a toy food with three species (a, b, c) and their RDPG representation.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the paper, we explore some ideas on how to deploy the Random Dot Product Graphs
+models for food webs. The RDPG framework offers the possibility of moving some
+questions about the evolution of food webs from a quite rigid, binary framework
+(that is, the classic interactions matrix representation) to a metric space of
+species’ abstract functional traits (estimated from that matrix
+representation). This offers analytical advantages, for example the possibility
+of speaking about &lt;em&gt;gradual&lt;/em&gt; changes in a food web structure.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;We are eager to hear your opinion about the proposed approach, and happy to work on future application and developments!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Increasing evidence suggests that an appropriate model for food webs, the
+network of feeding links in a community of species, should take into account
+the inherent variability of ecological interactions. Harnessing this
+variability, we will show that it is useful to interpret empirically observed
+food webs as realisations of a family of stochastic processes, namely random
+dot-product graph models. These models provide an ideal extension of food-web
+models beyond the limitations of current deterministic or partially
+probabilistic models. As an additional beneﬁt, our RDPG framework enables us to
+identify the pairwise distance structure given by species’ functional food-web
+traits: this allows for the natural emergence of ecologically meaningful
+species groups. Lastly, our results suggest the notion that the evolutionary
+signature in food webs is already detectable in their stochastic backbones,
+while the contribution of their ﬁne wiring is arguable.&lt;/p&gt;
+
+&lt;h2 id=&quot;citation&quot;&gt;Citation&lt;/h2&gt;
+
+&lt;p&gt;@article{dalla2015exploring,&lt;br /&gt;
+  title={Exploring the evolutionary signature of food webs’ backbones using functional traits},&lt;br /&gt;
+  author={Dalla Riva, Giulio V and Stouffer, Daniel B},&lt;br /&gt;
+  journal={Oikos},&lt;br /&gt;
+  year={2015},&lt;br /&gt;
+  publisher={Wiley Online Library}&lt;br /&gt;
+}&lt;/p&gt;
+
+&lt;h2 id=&quot;data-and-code&quot;&gt;Data and Code&lt;/h2&gt;
+&lt;p&gt;All the data we used, and the code we wrote, is freely available on a
+public &lt;a href=&quot;https://github.com/gvdr/RDPG_foodweb&quot;&gt;github repo&lt;/a&gt;.
+let me know if you need more info (I’ll be adding them to the repository shortly).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Sep 2015 10:45:00 +1300</pubDate>
+      </item>
     
       <item>
         <title>Quanto &lt;i&gt;Amborella&lt;/i&gt; sono le piante?</title>
@@ -13,7 +66,7 @@
         <guid isPermaLink="true">http://gvdr.github.io/blog/Amborella_debate</guid>
         <description>&lt;p&gt;Darwin lo aveva definito un abominabile mistero: da dove arrivano le piante da fiore? A cosa assomiglia la loro &lt;em&gt;mamma&lt;/em&gt;? Quanti sessi contava? Quanto è vecchia? Abominabile, credo, perché non son domande che si fanno ad una signora…&lt;/p&gt;
 
-&lt;p&gt;Per risolvere la questione è utile individuare la radice dell’albero evolutivo delle Magnoliofite (o Angiosperme, per chi preferisce la nomenclatura di Lindl a quella di Cronquist, Takhttajan &amp;amp; Max Zimmermann).&lt;/p&gt;
+&lt;p&gt;Per risolvere la questione è utile individuare la radice dell’albero evolutivo (la filogenia) delle Magnoliofite (o Angiosperme, per chi preferisce la nomenclatura di Lindl a quella di Cronquist, Takhttajan &amp;amp; Max Zimmermann).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/images/Amborella.jpg&quot; style=&quot;float: right&quot; width=&quot;50%&quot; title=&quot;Amborella trichopodia - by Wertheim Conservatory, Florida International University, Miami, Florida, USA.&quot; /&gt;&lt;/p&gt;
 

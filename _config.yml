@@ -16,7 +16,7 @@ theme:
   #I'm a biomathematician PhD student exploring the evolving web of life.
   # Header and footer text
   header_text: >
-     <p>This is Giulio Valentino Dalla Riva small place in the web.</p>
+     <p>This is Giulio Valentino Dalla Riva's small place in the web.</p>
      <p>If you are curious about who I am, you can find some info about <a href="http://gvdr.github.io/about/">me</a> here. </p>
      <p>I will be posting here updates about my <a href="http://gvdr.github.io/science/">research</a>. </p>
      <p>Now and then I will be tempted to share my <a href="http://gvdr.github.io/blog/">thoughts</a> about science, politics, music, the universe and everything else. But I will mainly write about mathematics, evolution and ecology. That's already quite a lot, to have an opinion on! </p>
@@ -65,7 +65,7 @@ permalink: /:categories/:title
 
 # PAGINATION
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "/blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown

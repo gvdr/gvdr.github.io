@@ -4,10 +4,11 @@ title: "thoughts"
 category: blog
 feature-img: "img/vigolana_bw.png"
 ---
-{% for post in site.posts %}
+{% for post in site.posts  %}
 {% if post.categories contains 'blog' %}
+
   <div class="posts">
-    {% for post in paginator.posts %}
+
     <div class="post-teaser">
 
       <header>
@@ -25,7 +26,8 @@ feature-img: "img/vigolana_bw.png"
       </div>
 
     </div>
-    {% endfor %}
+
   </div>
+
 {% endif %}
 {% endfor %}
