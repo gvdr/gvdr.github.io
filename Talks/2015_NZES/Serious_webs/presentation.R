@@ -1,13 +1,13 @@
----
-title: "Serious webs"
-author: "Giulio Valentino Dalla Riva"
-date: "November 19, 2015"
-output:
-  ioslides_presentation:
-    widescreen: true
-    smaller: true
-subtitle: An NZES powered workshop
----
+# ---
+# title: "Serious webs"
+# author: "Giulio Valentino Dalla Riva"
+# date: "November 19, 2015"
+# output:
+#   ioslides_presentation:
+#     widescreen: true
+#     smaller: true
+# subtitle: An NZES powered workshop
+# ---
 
 # Hypothesis testing in food webs | And now, for something totally different
 
