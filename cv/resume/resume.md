@@ -7,7 +7,7 @@ Giulio Valentino Dalla Riva
 > <gvd16@uclive.ac.nz>\
 ----
 
-Education
+Relevant work experiences
 ---------
 
 2016 -
@@ -15,6 +15,20 @@ Education
        University of British Columbia (Vancouver, CA)\
        Research Areas: *Food webs evolution*, *Semantic networks*, *ecology*, *evolution*\
        Supervisors: *Michael Doebeli*
+
+2012
+:   **Communication** consultant; [Impact Hub Trentino](https://trento.impacthub.net/), (Rovereto, IT) \
+    Marketing and communication consultant, public relations, press relations.
+
+2011
+:   **Project development**; [Deltalab](http://lab.deltainformatica.eu/), (Trento, IT) \
+    Development of an European Framework Program 7, large, transnational grant application.
+
+2008 - 2012
+:   **Academic Senate**, **Department**, student representative; [University of Trento](http://www.unitn.it/en), (Trento, IT)
+
+Education
+---------
 
 2013-2016
 :   **PhD, Biomathematics**; University of Canterbury (Christchurch, NZ)\
@@ -32,19 +46,6 @@ Education
 2004-2009
 :   **Laurea (BSc.), Mathematics**; Università di Trento (Trento, IT) \
     Grant: INdAM (Italian National Institute for Advanced Mathematics)
-
-Relevant work experiences
----------
-
-2012
-:   **Communication** consultant; [Impact Hub Trentino](https://trento.impacthub.net/), (Rovereto, IT) \
-    Marketing and communication consultant, public relations, press relations.
-2011
-:   **Project development**; [Deltalab](http://lab.deltainformatica.eu/), (Trento, IT) \
-    Development of an European Framework Program 7, large, transnational grant application.
-
-2008 - 2012
-:   **Academic Senate**, **Department**, student representative; [University of Trento](http://www.unitn.it/en), (Trento, IT)
 
 Research Interests:
 ----------
