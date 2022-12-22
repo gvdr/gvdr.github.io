@@ -1,51 +1,26 @@
----
-layout: default
----
-
-<div class="home">
-
-  {% if site.theme.header_text %}
-  <div class="call-out">{{ site.theme.header_text }}</div>
-  {% endif %}
-
-  <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
-    
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h1>
-        
-        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-      </header>
-
-      <div class="excerpt">
-        {{ post.excerpt }}
-
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
-      </div>
-      
-    </div>
-    {% endfor %}
-  </div>
-
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-  
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i> 
-      {{ site.theme.str_prev }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting to github.com/gvdr/</title>
+    <meta http-equiv="refresh" content="0; URL=https://github.com/gvdr">
+    <link href="https://github.com/gvdr" rel="me">
+    <link href="https://darescience.net/" rel="me">
+    <link href="https://ecoevo.social/@gvdr" rel="me">
+  </head>
+  <body style="margin: 0; padding: 0">
+    <a
+      href="https://github.com/gvdr"
+      style="
+        display: block;
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        color: white;
+      "
+    >
+      github.com/gvdr
     </a>
-    {% endif %}
-
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      {{ site.theme.str_next }} 
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-  </div>
-  {% endif %}
-</div>
+  </body>
+</html>
